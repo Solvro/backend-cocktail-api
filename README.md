@@ -27,7 +27,7 @@ Install the main app dependencies:
    npm install
    ```
 
-Rename `.example.env` to `.env` and configure your environment variables there.
+Rename `.example.env` to `.env` and configure your environment variables there. At this point you can regenerace app key with `node ace generate:key`.
 
 Migrate the database schema:
    ```
@@ -47,6 +47,8 @@ node ace serve
 ```
 
 The API will be accessible at `http://localhost:3333`.
+
+You can watch live changes by adding --watch or --hmr flag.
 
 ### Production
 
