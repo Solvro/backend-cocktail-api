@@ -1,0 +1,4100 @@
+[
+    {
+        "id": 11000,
+        "name": "Mojito",
+        "category": "Cocktail",
+        "glass": "Highball glass",
+        "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
+        "imageUrl": "https://localhost/images/ingredients/mojito.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "Juice of 1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11000
+            },
+            {
+                "measure": "2-4 ",
+                "ingredient_id": 337,
+                "cocktail_id": 11000
+            },
+            {
+                "measure": "2 tsp ",
+                "ingredient_id": 476,
+                "cocktail_id": 11000
+            },
+            {
+                "measure": "2-3 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11000
+            },
+            {
+                "measure": null,
+                "ingredient_id": 618,
+                "cocktail_id": 11000
+            }
+        ]
+    },
+    {
+        "id": 11001,
+        "name": "Old Fashioned",
+        "category": "Cocktail",
+        "glass": "Old-fashioned glass",
+        "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\r\nFill the glass with ice cubes and add whiskey.\r\n\r\nGarnish with orange twist, and a cocktail cherry.",
+        "imageUrl": "https://localhost/images/ingredients/old-fashioned.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "4.5 cL",
+                "ingredient_id": 71,
+                "cocktail_id": 11001
+            },
+            {
+                "measure": "1 cube",
+                "ingredient_id": 476,
+                "cocktail_id": 11001
+            },
+            {
+                "measure": "dash",
+                "ingredient_id": 513,
+                "cocktail_id": 11001
+            },
+            {
+                "measure": "2 dashes",
+                "ingredient_id": 619,
+                "cocktail_id": 11001
+            }
+        ]
+    },
+    {
+        "id": 11002,
+        "name": "Long Island Tea",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.",
+        "imageUrl": "https://localhost/images/ingredients/long-island-tea.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11002
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11002
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 4,
+                "cocktail_id": 11002
+            },
+            {
+                "measure": "1 splash ",
+                "ingredient_id": 128,
+                "cocktail_id": 11002
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11002
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11002
+            }
+        ]
+    },
+    {
+        "id": 11003,
+        "name": "Negroni",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Stir into glass over ice, garnish and serve.",
+        "imageUrl": "https://localhost/images/ingredients/negroni.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11003
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 83,
+                "cocktail_id": 11003
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11003
+            }
+        ]
+    },
+    {
+        "id": 11004,
+        "name": "Whiskey Sour",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
+        "imageUrl": "https://localhost/images/ingredients/whiskey-sour.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11004
+            },
+            {
+                "measure": "1/2 slice ",
+                "ingredient_id": 620,
+                "cocktail_id": 11004
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11004
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11004
+            }
+        ]
+    },
+    {
+        "id": 11005,
+        "name": "Dry Martini",
+        "category": "Cocktail",
+        "glass": "Cocktail glass",
+        "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+        "imageUrl": "https://localhost/images/ingredients/dry-martini.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 2/3 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11005
+            },
+            {
+                "measure": "1/3 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11005
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 347,
+                "cocktail_id": 11005
+            }
+        ]
+    },
+    {
+        "id": 11006,
+        "name": "Daiquiri",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/daiquiri.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11006
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11006
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11006
+            }
+        ]
+    },
+    {
+        "id": 11007,
+        "name": "Margarita",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+        "imageUrl": "https://localhost/images/ingredients/margarita.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 4,
+                "cocktail_id": 11007
+            },
+            {
+                "measure": null,
+                "ingredient_id": 439,
+                "cocktail_id": 11007
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11007
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11007
+            }
+        ]
+    },
+    {
+        "id": 11008,
+        "name": "Manhattan",
+        "category": "Cocktail",
+        "glass": "Cocktail glass",
+        "instructions": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+        "imageUrl": "https://localhost/images/ingredients/manhattan.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 1/2 oz Blended ",
+                "ingredient_id": 71,
+                "cocktail_id": 11008
+            },
+            {
+                "measure": "2 or 3 ",
+                "ingredient_id": 270,
+                "cocktail_id": 11008
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11008
+            },
+            {
+                "measure": "dash ",
+                "ingredient_id": 619,
+                "cocktail_id": 11008
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11008
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 626,
+                "cocktail_id": 11008
+            }
+        ]
+    },
+    {
+        "id": 11009,
+        "name": "Moscow Mule",
+        "category": "Punch / Party Drink",
+        "glass": "Copper Mug",
+        "instructions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.",
+        "imageUrl": "https://localhost/images/ingredients/moscow-mule.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11009
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11009
+            },
+            {
+                "measure": "8 oz ",
+                "ingredient_id": 627,
+                "cocktail_id": 11009
+            }
+        ]
+    },
+    {
+        "id": 11010,
+        "name": "After Dinner Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients (except lime wedge) with ice and strain into a cocktail glass. Add the wedge of lime and serve.",
+        "imageUrl": "https://localhost/images/ingredients/after-dinner-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11010
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11010
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 628,
+                "cocktail_id": 11010
+            }
+        ]
+    },
+    {
+        "id": 11011,
+        "name": "After Supper Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/after-supper-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11011
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 628,
+                "cocktail_id": 11011
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11011
+            }
+        ]
+    },
+    {
+        "id": 11012,
+        "name": "Alabama Slammer",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/alabama-slammer.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11012
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 458,
+                "cocktail_id": 11012
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 629,
+                "cocktail_id": 11012
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 630,
+                "cocktail_id": 11012
+            }
+        ]
+    },
+    {
+        "id": 11013,
+        "name": "Alaska Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.",
+        "imageUrl": "https://localhost/images/ingredients/alaska-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11013
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 532,
+                "cocktail_id": 11013
+            },
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 631,
+                "cocktail_id": 11013
+            },
+            {
+                "measure": "Twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11013
+            }
+        ]
+    },
+    {
+        "id": 11014,
+        "name": "Alexander",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
+        "imageUrl": "https://localhost/images/ingredients/alexander.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11014
+            },
+            {
+                "measure": null,
+                "ingredient_id": 344,
+                "cocktail_id": 11014
+            },
+            {
+                "measure": "1/2 oz white ",
+                "ingredient_id": 633,
+                "cocktail_id": 11014
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11014
+            }
+        ]
+    },
+    {
+        "id": 11016,
+        "name": "Brandy Alexander",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey Glass",
+        "instructions": "Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
+        "imageUrl": "https://localhost/images/ingredients/brandy-alexander.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11016
+            },
+            {
+                "measure": null,
+                "ingredient_id": 344,
+                "cocktail_id": 11016
+            },
+            {
+                "measure": "1 oz white ",
+                "ingredient_id": 633,
+                "cocktail_id": 11016
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11016
+            }
+        ]
+    },
+    {
+        "id": 11019,
+        "name": "Alfie Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/alfie-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 296,
+                "cocktail_id": 11019
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 623,
+                "cocktail_id": 11019
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 635,
+                "cocktail_id": 11019
+            }
+        ]
+    },
+    {
+        "id": 11020,
+        "name": "Algonquin",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/algonquin.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11020
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11020
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 635,
+                "cocktail_id": 11020
+            }
+        ]
+    },
+    {
+        "id": 11021,
+        "name": "Allegheny",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.",
+        "imageUrl": "https://localhost/images/ingredients/allegheny.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11021
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11021
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11021
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11021
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 636,
+                "cocktail_id": 11021
+            }
+        ]
+    },
+    {
+        "id": 11022,
+        "name": "Allies Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/allies-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11022
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11022
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 288,
+                "cocktail_id": 11022
+            }
+        ]
+    },
+    {
+        "id": 11023,
+        "name": "Almeria",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/almeria.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 282,
+                "cocktail_id": 11023
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 637,
+                "cocktail_id": 11023
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11023
+            }
+        ]
+    },
+    {
+        "id": 11024,
+        "name": "Almond Joy",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/almond-joy.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11024
+            },
+            {
+                "measure": "1/2 oz white ",
+                "ingredient_id": 633,
+                "cocktail_id": 11024
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11024
+            }
+        ]
+    },
+    {
+        "id": 11025,
+        "name": "Amaretto And Cream",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake well with cracked ice, strain contents into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/amaretto-and-cream.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11025
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11025
+            }
+        ]
+    },
+    {
+        "id": 11026,
+        "name": "Amaretto Mist",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)",
+        "imageUrl": "https://localhost/images/ingredients/amaretto-mist.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11026
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11026
+            }
+        ]
+    },
+    {
+        "id": 11027,
+        "name": "Amaretto Rose",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.",
+        "imageUrl": "https://localhost/images/ingredients/amaretto-rose.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11027
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11027
+            },
+            {
+                "measure": null,
+                "ingredient_id": 639,
+                "cocktail_id": 11027
+            }
+        ]
+    },
+    {
+        "id": 11028,
+        "name": "Amaretto Stinger",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/amaretto-stinger.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11028
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 520,
+                "cocktail_id": 11028
+            }
+        ]
+    },
+    {
+        "id": 11029,
+        "name": "Amaretto Tea",
+        "category": "Ordinary Drink",
+        "glass": "Pousse cafe glass",
+        "instructions": "Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.",
+        "imageUrl": "https://localhost/images/ingredients/amaretto-tea.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11029
+            },
+            {
+                "measure": "6 oz hot ",
+                "ingredient_id": 486,
+                "cocktail_id": 11029
+            },
+            {
+                "measure": "Chilled ",
+                "ingredient_id": 640,
+                "cocktail_id": 11029
+            }
+        ]
+    },
+    {
+        "id": 11034,
+        "name": "Angel Face",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/angel-face.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11034
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 628,
+                "cocktail_id": 11034
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 641,
+                "cocktail_id": 11034
+            }
+        ]
+    },
+    {
+        "id": 11046,
+        "name": "Applecar",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/applecar.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 31,
+                "cocktail_id": 11046
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11046
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11046
+            }
+        ]
+    },
+    {
+        "id": 11050,
+        "name": "Apricot Lady",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the rum, apricot brandy, triple sec, lemon juice, and egg white. Shake well. Strain into an old-fashioned glass almost filled with ice cubes. Garnish with the orange slice.",
+        "imageUrl": "https://localhost/images/ingredients/apricot-lady.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 359,
+                "cocktail_id": 11050
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11050
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 623,
+                "cocktail_id": 11050
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 628,
+                "cocktail_id": 11050
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11050
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11050
+            }
+        ]
+    },
+    {
+        "id": 11052,
+        "name": "Archbishop",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",
+        "imageUrl": "https://localhost/images/ingredients/archbishop.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11052
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 53,
+                "cocktail_id": 11052
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11052
+            },
+            {
+                "measure": "1 oz Green Ginger ",
+                "ingredient_id": 528,
+                "cocktail_id": 11052
+            }
+        ]
+    },
+    {
+        "id": 11053,
+        "name": "Arise My Love",
+        "category": "Ordinary Drink",
+        "glass": "Champagne flute",
+        "instructions": "Put creme de menthe into a champagne flute. Fill with chilled champagne and serve.",
+        "imageUrl": "https://localhost/images/ingredients/arise-my-love.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "Chilled ",
+                "ingredient_id": 97,
+                "cocktail_id": 11053
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 246,
+                "cocktail_id": 11053
+            }
+        ]
+    },
+    {
+        "id": 11054,
+        "name": "Arthur Tompkins",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.",
+        "imageUrl": "https://localhost/images/ingredients/arthur-tompkins.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11054
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 238,
+                "cocktail_id": 11054
+            },
+            {
+                "measure": "2 tsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11054
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11054
+            }
+        ]
+    },
+    {
+        "id": 11055,
+        "name": "Artillery",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/artillery.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11055
+            },
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 56,
+                "cocktail_id": 11055
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 482,
+                "cocktail_id": 11055
+            }
+        ]
+    },
+    {
+        "id": 11060,
+        "name": "Balmoral",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/balmoral.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 5,
+                "cocktail_id": 11060
+            },
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 56,
+                "cocktail_id": 11060
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11060
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11060
+            }
+        ]
+    },
+    {
+        "id": 11064,
+        "name": "Banana Daiquiri",
+        "category": "Ordinary Drink",
+        "glass": "Champagne flute",
+        "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/banana-daiquiri.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 47,
+                "cocktail_id": 11064
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11064
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 476,
+                "cocktail_id": 11064
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11064
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 623,
+                "cocktail_id": 11064
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11064
+            }
+        ]
+    },
+    {
+        "id": 11084,
+        "name": "Bermuda Highball",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
+        "imageUrl": "https://localhost/images/ingredients/bermuda-highball.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11084
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11084
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11084
+            },
+            {
+                "measure": null,
+                "ingredient_id": 632,
+                "cocktail_id": 11084
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11084
+            }
+        ]
+    },
+    {
+        "id": 11102,
+        "name": "Black Russian",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.",
+        "imageUrl": "https://localhost/images/ingredients/black-russian.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11102
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 643,
+                "cocktail_id": 11102
+            }
+        ]
+    },
+    {
+        "id": 11106,
+        "name": "Blackthorn",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
+        "imageUrl": "https://localhost/images/ingredients/blackthorn.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11106
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 630,
+                "cocktail_id": 11106
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11106
+            }
+        ]
+    },
+    {
+        "id": 11112,
+        "name": "Bloody Maria",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.",
+        "imageUrl": "https://localhost/images/ingredients/bloody-maria.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 4,
+                "cocktail_id": 11112
+            },
+            {
+                "measure": "1 slice ",
+                "ingredient_id": 620,
+                "cocktail_id": 11112
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 629,
+                "cocktail_id": 11112
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 644,
+                "cocktail_id": 11112
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 645,
+                "cocktail_id": 11112
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 646,
+                "cocktail_id": 11112
+            }
+        ]
+    },
+    {
+        "id": 11113,
+        "name": "Bloody Mary",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Stirring gently, pour all ingredients into highball glass. Garnish.",
+        "imageUrl": "https://localhost/images/ingredients/bloody-mary.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11113
+            },
+            {
+                "measure": "1 wedge ",
+                "ingredient_id": 312,
+                "cocktail_id": 11113
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 629,
+                "cocktail_id": 11113
+            },
+            {
+                "measure": "3 oz ",
+                "ingredient_id": 644,
+                "cocktail_id": 11113
+            },
+            {
+                "measure": "2-3 drops ",
+                "ingredient_id": 645,
+                "cocktail_id": 11113
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 647,
+                "cocktail_id": 11113
+            }
+        ]
+    },
+    {
+        "id": 11117,
+        "name": "Blue Lagoon",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/blue-lagoon.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11117
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 67,
+                "cocktail_id": 11117
+            },
+            {
+                "measure": null,
+                "ingredient_id": 106,
+                "cocktail_id": 11117
+            },
+            {
+                "measure": null,
+                "ingredient_id": 300,
+                "cocktail_id": 11117
+            }
+        ]
+    },
+    {
+        "id": 11118,
+        "name": "Blue Margarita",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/blue-margarita.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 4,
+                "cocktail_id": 11118
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 67,
+                "cocktail_id": 11118
+            },
+            {
+                "measure": "Coarse ",
+                "ingredient_id": 439,
+                "cocktail_id": 11118
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11118
+            }
+        ]
+    },
+    {
+        "id": 11119,
+        "name": "Blue Mountain",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass almost filled with ice cubes.",
+        "imageUrl": "https://localhost/images/ingredients/blue-mountain.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11119
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11119
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 648,
+                "cocktail_id": 11119
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 649,
+                "cocktail_id": 11119
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 650,
+                "cocktail_id": 11119
+            }
+        ]
+    },
+    {
+        "id": 11120,
+        "name": "Bluebird",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.",
+        "imageUrl": "https://localhost/images/ingredients/bluebird.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11120
+            },
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 56,
+                "cocktail_id": 11120
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 67,
+                "cocktail_id": 11120
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11120
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11120
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11120
+            }
+        ]
+    },
+    {
+        "id": 11121,
+        "name": "Bobby Burns Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
+        "imageUrl": "https://localhost/images/ingredients/bobby-burns-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 5,
+                "cocktail_id": 11121
+            },
+            {
+                "measure": "1 1/4 tsp ",
+                "ingredient_id": 53,
+                "cocktail_id": 11121
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11121
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11121
+            }
+        ]
+    },
+    {
+        "id": 11124,
+        "name": "Boomerang",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry.",
+        "imageUrl": "https://localhost/images/ingredients/boomerang.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11124
+            },
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 56,
+                "cocktail_id": 11124
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11124
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11124
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 651,
+                "cocktail_id": 11124
+            }
+        ]
+    },
+    {
+        "id": 11128,
+        "name": "Boston Sidecar",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/boston-sidecar.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11128
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11128
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11128
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11128
+            }
+        ]
+    },
+    {
+        "id": 11129,
+        "name": "Boston Sour",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/boston-sour.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11129
+            },
+            {
+                "measure": "1 slice ",
+                "ingredient_id": 620,
+                "cocktail_id": 11129
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11129
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11129
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11129
+            }
+        ]
+    },
+    {
+        "id": 11145,
+        "name": "Classic Old-Fashioned",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.",
+        "imageUrl": "https://localhost/images/ingredients/classic-old-fashioned.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "3 dashes ",
+                "ingredient_id": 56,
+                "cocktail_id": 11145
+            },
+            {
+                "measure": "3 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11145
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 359,
+                "cocktail_id": 11145
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 476,
+                "cocktail_id": 11145
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 513,
+                "cocktail_id": 11145
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11145
+            }
+        ]
+    },
+    {
+        "id": 11146,
+        "name": "Bourbon Sling",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.",
+        "imageUrl": "https://localhost/images/ingredients/bourbon-sling.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11146
+            },
+            {
+                "measure": "1 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11146
+            },
+            {
+                "measure": "2 tsp ",
+                "ingredient_id": 513,
+                "cocktail_id": 11146
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11146
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11146
+            }
+        ]
+    },
+    {
+        "id": 11147,
+        "name": "Bourbon Sour",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and sugar. Shake well. Strain into a whiskey sour glass, garnish with the orange slice and cherry.",
+        "imageUrl": "https://localhost/images/ingredients/bourbon-sour.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11147
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 359,
+                "cocktail_id": 11147
+            },
+            {
+                "measure": "1/2 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11147
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11147
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11147
+            }
+        ]
+    },
+    {
+        "id": 11149,
+        "name": "Boxcar",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
+        "imageUrl": "https://localhost/images/ingredients/boxcar.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11149
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11149
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11149
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11149
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11149
+            }
+        ]
+    },
+    {
+        "id": 11157,
+        "name": "Brandy Cobbler",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.",
+        "imageUrl": "https://localhost/images/ingredients/brandy-cobbler.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11157
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 359,
+                "cocktail_id": 11157
+            },
+            {
+                "measure": "1 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11157
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11157
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11157
+            },
+            {
+                "measure": "3 oz ",
+                "ingredient_id": 639,
+                "cocktail_id": 11157
+            }
+        ]
+    },
+    {
+        "id": 11164,
+        "name": "Brandy Flip",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.",
+        "imageUrl": "https://localhost/images/ingredients/brandy-flip.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11164
+            },
+            {
+                "measure": "1 whole ",
+                "ingredient_id": 194,
+                "cocktail_id": 11164
+            },
+            {
+                "measure": "1/8 tsp grated ",
+                "ingredient_id": 344,
+                "cocktail_id": 11164
+            },
+            {
+                "measure": "1 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11164
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11164
+            }
+        ]
+    },
+    {
+        "id": 11170,
+        "name": "Brandy Sour",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/brandy-sour.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11170
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11170
+            },
+            {
+                "measure": "1/2 slice ",
+                "ingredient_id": 620,
+                "cocktail_id": 11170
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11170
+            }
+        ]
+    },
+    {
+        "id": 11202,
+        "name": "Caipirinha",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.",
+        "imageUrl": "https://localhost/images/ingredients/caipirinha.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 1/2 oz ",
+                "ingredient_id": 81,
+                "cocktail_id": 11202
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11202
+            },
+            {
+                "measure": "2 tsp",
+                "ingredient_id": 476,
+                "cocktail_id": 11202
+            }
+        ]
+    },
+    {
+        "id": 11205,
+        "name": "California Lemonade",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.",
+        "imageUrl": "https://localhost/images/ingredients/california-lemonade.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/4 tsp",
+                "ingredient_id": 250,
+                "cocktail_id": 11205
+            },
+            {
+                "measure": "Juice of 1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11205
+            },
+            {
+                "measure": "Juice of 1 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11205
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11205
+            },
+            {
+                "measure": "1 tblsp",
+                "ingredient_id": 622,
+                "cocktail_id": 11205
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11205
+            }
+        ]
+    },
+    {
+        "id": 11222,
+        "name": "Casa Blanca",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/casa-blanca.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11222
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 623,
+                "cocktail_id": 11222
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 624,
+                "cocktail_id": 11222
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 651,
+                "cocktail_id": 11222
+            }
+        ]
+    },
+    {
+        "id": 11224,
+        "name": "Casino Royale",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
+        "imageUrl": "https://localhost/images/ingredients/casino-royale.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11224
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11224
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 631,
+                "cocktail_id": 11224
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 651,
+                "cocktail_id": 11224
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 652,
+                "cocktail_id": 11224
+            }
+        ]
+    },
+    {
+        "id": 11227,
+        "name": "Champagne Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Champagne flute",
+        "instructions": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.",
+        "imageUrl": "https://localhost/images/ingredients/champagne-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 56,
+                "cocktail_id": 11227
+            },
+            {
+                "measure": "Chilled ",
+                "ingredient_id": 97,
+                "cocktail_id": 11227
+            },
+            {
+                "measure": "1 dash",
+                "ingredient_id": 141,
+                "cocktail_id": 11227
+            },
+            {
+                "measure": "1 piece ",
+                "ingredient_id": 476,
+                "cocktail_id": 11227
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11227
+            }
+        ]
+    },
+    {
+        "id": 11239,
+        "name": "Cherry Rum",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/cherry-rum.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/4 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11239
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 634,
+                "cocktail_id": 11239
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 653,
+                "cocktail_id": 11239
+            }
+        ]
+    },
+    {
+        "id": 11242,
+        "name": "Chicago Fizz",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/chicago-fizz.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 406,
+                "cocktail_id": 11242
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11242
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11242
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11242
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11242
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11242
+            }
+        ]
+    },
+    {
+        "id": 11243,
+        "name": "Chocolate Black Russian",
+        "category": "Ordinary Drink",
+        "glass": "Champagne flute",
+        "instructions": "Combine all ingredients in an electric blender and blend at a low speed for a short length of time. Pour into a chilled champagne flute and serve.",
+        "imageUrl": "https://localhost/images/ingredients/chocolate-black-russian.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11243
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 282,
+                "cocktail_id": 11243
+            },
+            {
+                "measure": "5 oz ",
+                "ingredient_id": 654,
+                "cocktail_id": 11243
+            }
+        ]
+    },
+    {
+        "id": 11251,
+        "name": "City Slicker",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/city-slicker.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11251
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11251
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11251
+            }
+        ]
+    },
+    {
+        "id": 11255,
+        "name": "Clove Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/clove-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11255
+            },
+            {
+                "measure": "1/2 oz Muscatel ",
+                "ingredient_id": 528,
+                "cocktail_id": 11255
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 630,
+                "cocktail_id": 11255
+            }
+        ]
+    },
+    {
+        "id": 11288,
+        "name": "Cuba Libre",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.",
+        "imageUrl": "https://localhost/images/ingredients/cuba-libre.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": null,
+                "ingredient_id": 128,
+                "cocktail_id": 11288
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11288
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11288
+            }
+        ]
+    },
+    {
+        "id": 11320,
+        "name": "Dragonfly",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.",
+        "imageUrl": "https://localhost/images/ingredients/dragonfly.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11320
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11320
+            },
+            {
+                "measure": "4 oz ",
+                "ingredient_id": 627,
+                "cocktail_id": 11320
+            }
+        ]
+    },
+    {
+        "id": 11324,
+        "name": "Dry Rob Roy",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
+        "imageUrl": "https://localhost/images/ingredients/dry-rob-roy.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 1/2 oz ",
+                "ingredient_id": 5,
+                "cocktail_id": 11324
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 189,
+                "cocktail_id": 11324
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11324
+            }
+        ]
+    },
+    {
+        "id": 11326,
+        "name": "Dubonnet Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
+        "imageUrl": "https://localhost/images/ingredients/dubonnet-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11326
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 56,
+                "cocktail_id": 11326
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 191,
+                "cocktail_id": 11326
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11326
+            }
+        ]
+    },
+    {
+        "id": 11338,
+        "name": "English Highball",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
+        "imageUrl": "https://localhost/images/ingredients/english-highball.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11338
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11338
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11338
+            },
+            {
+                "measure": null,
+                "ingredient_id": 632,
+                "cocktail_id": 11338
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11338
+            }
+        ]
+    },
+    {
+        "id": 11339,
+        "name": "English Rose Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve.",
+        "imageUrl": "https://localhost/images/ingredients/english-rose-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11339
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11339
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11339
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11339
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 628,
+                "cocktail_id": 11339
+            },
+            {
+                "measure": "1/4 tsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11339
+            }
+        ]
+    },
+    {
+        "id": 11368,
+        "name": "Flying Dutchman",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.",
+        "imageUrl": "https://localhost/images/ingredients/flying-dutchman.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11368
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11368
+            }
+        ]
+    },
+    {
+        "id": 11369,
+        "name": "Flying Scotchman",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/flying-scotchman.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 5,
+                "cocktail_id": 11369
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 56,
+                "cocktail_id": 11369
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11369
+            },
+            {
+                "measure": "1/4 tsp ",
+                "ingredient_id": 655,
+                "cocktail_id": 11369
+            }
+        ]
+    },
+    {
+        "id": 11375,
+        "name": "Foxy Lady",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/foxy-lady.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11375
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 633,
+                "cocktail_id": 11375
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11375
+            }
+        ]
+    },
+    {
+        "id": 11382,
+        "name": "Frisco Sour",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.",
+        "imageUrl": "https://localhost/images/ingredients/frisco-sour.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 53,
+                "cocktail_id": 11382
+            },
+            {
+                "measure": "1 slice ",
+                "ingredient_id": 312,
+                "cocktail_id": 11382
+            },
+            {
+                "measure": "1 slice ",
+                "ingredient_id": 620,
+                "cocktail_id": 11382
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11382
+            }
+        ]
+    },
+    {
+        "id": 11387,
+        "name": "Frozen Daiquiri",
+        "category": "Ordinary Drink",
+        "glass": "Champagne flute",
+        "instructions": "Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/frozen-daiquiri.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11387
+            },
+            {
+                "measure": "1 cup crushed ",
+                "ingredient_id": 270,
+                "cocktail_id": 11387
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 476,
+                "cocktail_id": 11387
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11387
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 623,
+                "cocktail_id": 11387
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11387
+            }
+        ]
+    },
+    {
+        "id": 11390,
+        "name": "Frozen Mint Daiquiri",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve.",
+        "imageUrl": "https://localhost/images/ingredients/frozen-mint-daiquiri.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "6 ",
+                "ingredient_id": 337,
+                "cocktail_id": 11390
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 476,
+                "cocktail_id": 11390
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11390
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 624,
+                "cocktail_id": 11390
+            }
+        ]
+    },
+    {
+        "id": 11396,
+        "name": "Gentleman's Club",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",
+        "imageUrl": "https://localhost/images/ingredients/gentlemans-club.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11396
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11396
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11396
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 639,
+                "cocktail_id": 11396
+            }
+        ]
+    },
+    {
+        "id": 11403,
+        "name": "Gin And Tonic",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.",
+        "imageUrl": "https://localhost/images/ingredients/gin-and-tonic.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11403
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11403
+            },
+            {
+                "measure": "5 oz ",
+                "ingredient_id": 656,
+                "cocktail_id": 11403
+            }
+        ]
+    },
+    {
+        "id": 11407,
+        "name": "Gin Cooler",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.",
+        "imageUrl": "https://localhost/images/ingredients/gin-cooler.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11407
+            },
+            {
+                "measure": null,
+                "ingredient_id": 357,
+                "cocktail_id": 11407
+            },
+            {
+                "measure": null,
+                "ingredient_id": 622,
+                "cocktail_id": 11407
+            },
+            {
+                "measure": null,
+                "ingredient_id": 632,
+                "cocktail_id": 11407
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11407
+            }
+        ]
+    },
+    {
+        "id": 11408,
+        "name": "Gin Daisy",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.",
+        "imageUrl": "https://localhost/images/ingredients/gin-daisy.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11408
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11408
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 359,
+                "cocktail_id": 11408
+            },
+            {
+                "measure": "1/2 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11408
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11408
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11408
+            }
+        ]
+    },
+    {
+        "id": 11410,
+        "name": "Gin Fizz",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
+        "imageUrl": "https://localhost/images/ingredients/gin-fizz.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11410
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11410
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11410
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11410
+            }
+        ]
+    },
+    {
+        "id": 11415,
+        "name": "Gin Sling",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve.",
+        "imageUrl": "https://localhost/images/ingredients/gin-sling.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11415
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 513,
+                "cocktail_id": 11415
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11415
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11415
+            },
+            {
+                "measure": "Twist of ",
+                "ingredient_id": 626,
+                "cocktail_id": 11415
+            }
+        ]
+    },
+    {
+        "id": 11416,
+        "name": "Gin Smash",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/gin-smash.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11416
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11416
+            },
+            {
+                "measure": "4 ",
+                "ingredient_id": 337,
+                "cocktail_id": 11416
+            },
+            {
+                "measure": "1 slice ",
+                "ingredient_id": 359,
+                "cocktail_id": 11416
+            },
+            {
+                "measure": "1 cube ",
+                "ingredient_id": 476,
+                "cocktail_id": 11416
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 642,
+                "cocktail_id": 11416
+            }
+        ]
+    },
+    {
+        "id": 11417,
+        "name": "Gin Sour",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.",
+        "imageUrl": "https://localhost/images/ingredients/gin-sour.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11417
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 359,
+                "cocktail_id": 11417
+            },
+            {
+                "measure": "1/2 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11417
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11417
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11417
+            }
+        ]
+    },
+    {
+        "id": 11418,
+        "name": "Gin Squirt",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.",
+        "imageUrl": "https://localhost/images/ingredients/gin-squirt.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11418
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11418
+            },
+            {
+                "measure": "3 chunks",
+                "ingredient_id": 397,
+                "cocktail_id": 11418
+            },
+            {
+                "measure": "2 ",
+                "ingredient_id": 470,
+                "cocktail_id": 11418
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11418
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11418
+            }
+        ]
+    },
+    {
+        "id": 11419,
+        "name": "Gin Swizzle",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda.",
+        "imageUrl": "https://localhost/images/ingredients/gin-swizzle.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11419
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 56,
+                "cocktail_id": 11419
+            },
+            {
+                "measure": "1 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11419
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11419
+            },
+            {
+                "measure": "3 oz ",
+                "ingredient_id": 639,
+                "cocktail_id": 11419
+            }
+        ]
+    },
+    {
+        "id": 11420,
+        "name": "Gin Toddy",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/gin-toddy.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11420
+            },
+            {
+                "measure": "2 tsp ",
+                "ingredient_id": 513,
+                "cocktail_id": 11420
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11420
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11420
+            }
+        ]
+    },
+    {
+        "id": 11422,
+        "name": "Godchild",
+        "category": "Ordinary Drink",
+        "glass": "Champagne flute",
+        "instructions": "Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/godchild.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11422
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11422
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 259,
+                "cocktail_id": 11422
+            }
+        ]
+    },
+    {
+        "id": 11423,
+        "name": "Godfather",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+        "imageUrl": "https://localhost/images/ingredients/godfather.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 5,
+                "cocktail_id": 11423
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11423
+            }
+        ]
+    },
+    {
+        "id": 11424,
+        "name": "Godmother",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Pour vodka and amaretto into an old-fashioned glass over ice and serve.",
+        "imageUrl": "https://localhost/images/ingredients/godmother.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11424
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11424
+            }
+        ]
+    },
+    {
+        "id": 11433,
+        "name": "Grass Skirt",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.",
+        "imageUrl": "https://localhost/images/ingredients/grass-skirt.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11433
+            },
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11433
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 397,
+                "cocktail_id": 11433
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11433
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 635,
+                "cocktail_id": 11433
+            }
+        ]
+    },
+    {
+        "id": 11462,
+        "name": "Harvey Wallbanger",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.",
+        "imageUrl": "https://localhost/images/ingredients/harvey-wallbanger.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11462
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 223,
+                "cocktail_id": 11462
+            },
+            {
+                "measure": "4 oz ",
+                "ingredient_id": 650,
+                "cocktail_id": 11462
+            }
+        ]
+    },
+    {
+        "id": 11470,
+        "name": "Havana Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/havana-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11470
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 629,
+                "cocktail_id": 11470
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 635,
+                "cocktail_id": 11470
+            }
+        ]
+    },
+    {
+        "id": 11472,
+        "name": "Hawaiian Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/hawaiian-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11472
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11472
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 635,
+                "cocktail_id": 11472
+            }
+        ]
+    },
+    {
+        "id": 11476,
+        "name": "Highland Fling Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.",
+        "imageUrl": "https://localhost/images/ingredients/highland-fling-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 5,
+                "cocktail_id": 11476
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 347,
+                "cocktail_id": 11476
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11476
+            },
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 631,
+                "cocktail_id": 11476
+            }
+        ]
+    },
+    {
+        "id": 11524,
+        "name": "Imperial Fizz",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/imperial-fizz.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11524
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11524
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11524
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11524
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11524
+            }
+        ]
+    },
+    {
+        "id": 11528,
+        "name": "Irish Spring",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/irish-spring.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11528
+            },
+            {
+                "measure": "1 slice ",
+                "ingredient_id": 359,
+                "cocktail_id": 11528
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 375,
+                "cocktail_id": 11528
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 650,
+                "cocktail_id": 11528
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 657,
+                "cocktail_id": 11528
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 658,
+                "cocktail_id": 11528
+            }
+        ]
+    },
+    {
+        "id": 11542,
+        "name": "Jack Rose Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/jack-rose-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11542
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11542
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 641,
+                "cocktail_id": 11542
+            }
+        ]
+    },
+    {
+        "id": 11558,
+        "name": "Japanese Fizz",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/japanese-fizz.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 tblsp",
+                "ingredient_id": 406,
+                "cocktail_id": 11558
+            },
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11558
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11558
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11558
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11558
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11558
+            }
+        ]
+    },
+    {
+        "id": 11566,
+        "name": "Jewel Of The Nile",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/jewel-of-the-nile.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11566
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 245,
+                "cocktail_id": 11566
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 532,
+                "cocktail_id": 11566
+            }
+        ]
+    },
+    {
+        "id": 11580,
+        "name": "John Collins",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.",
+        "imageUrl": "https://localhost/images/ingredients/john-collins.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11580
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 359,
+                "cocktail_id": 11580
+            },
+            {
+                "measure": "1 tsp superfine ",
+                "ingredient_id": 476,
+                "cocktail_id": 11580
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 625,
+                "cocktail_id": 11580
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 629,
+                "cocktail_id": 11580
+            },
+            {
+                "measure": "3 oz ",
+                "ingredient_id": 639,
+                "cocktail_id": 11580
+            }
+        ]
+    },
+    {
+        "id": 11600,
+        "name": "Kamikaze",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients together with ice. Strain into glass, garnish and serve.",
+        "imageUrl": "https://localhost/images/ingredients/kamikaze.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11600
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11600
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 624,
+                "cocktail_id": 11600
+            }
+        ]
+    },
+    {
+        "id": 11602,
+        "name": "Kentucky B And B",
+        "category": "Ordinary Drink",
+        "glass": "Brandy snifter",
+        "instructions": "Pour the bourbon and Benedictine into a brandy snifter.",
+        "imageUrl": "https://localhost/images/ingredients/kentucky-b-and-b.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 53,
+                "cocktail_id": 11602
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11602
+            }
+        ]
+    },
+    {
+        "id": 11604,
+        "name": "Kentucky Colonel",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.",
+        "imageUrl": "https://localhost/images/ingredients/kentucky-colonel.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 53,
+                "cocktail_id": 11604
+            },
+            {
+                "measure": "3 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11604
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11604
+            }
+        ]
+    },
+    {
+        "id": 11634,
+        "name": "Lady Love Fizz",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/lady-love-fizz.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11634
+            },
+            {
+                "measure": "Juice of 1/2",
+                "ingredient_id": 620,
+                "cocktail_id": 11634
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11634
+            },
+            {
+                "measure": "2 tsp ",
+                "ingredient_id": 634,
+                "cocktail_id": 11634
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11634
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11634
+            }
+        ]
+    },
+    {
+        "id": 11658,
+        "name": "Loch Lomond",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
+        "imageUrl": "https://localhost/images/ingredients/loch-lomond.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 5,
+                "cocktail_id": 11658
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 187,
+                "cocktail_id": 11658
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11658
+            },
+            {
+                "measure": "1 twist of ",
+                "ingredient_id": 632,
+                "cocktail_id": 11658
+            }
+        ]
+    },
+    {
+        "id": 11662,
+        "name": "London Town",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/london-town.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11662
+            },
+            {
+                "measure": "2 dashes ",
+                "ingredient_id": 631,
+                "cocktail_id": 11662
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 651,
+                "cocktail_id": 11662
+            }
+        ]
+    },
+    {
+        "id": 11664,
+        "name": "Lone Tree Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/lone-tree-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11664
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 482,
+                "cocktail_id": 11664
+            }
+        ]
+    },
+    {
+        "id": 11666,
+        "name": "Lone Tree Cooler",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.",
+        "imageUrl": "https://localhost/images/ingredients/lone-tree-cooler.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": null,
+                "ingredient_id": 2,
+                "cocktail_id": 11666
+            },
+            {
+                "measure": null,
+                "ingredient_id": 189,
+                "cocktail_id": 11666
+            },
+            {
+                "measure": null,
+                "ingredient_id": 357,
+                "cocktail_id": 11666
+            },
+            {
+                "measure": null,
+                "ingredient_id": 622,
+                "cocktail_id": 11666
+            },
+            {
+                "measure": null,
+                "ingredient_id": 632,
+                "cocktail_id": 11666
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11666
+            }
+        ]
+    },
+    {
+        "id": 11670,
+        "name": "Lord And Lady",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.",
+        "imageUrl": "https://localhost/images/ingredients/lord-and-lady.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 637,
+                "cocktail_id": 11670
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 649,
+                "cocktail_id": 11670
+            }
+        ]
+    },
+    {
+        "id": 11690,
+        "name": "Mai Tai",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
+        "imageUrl": "https://localhost/images/ingredients/mai-tai.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11690
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11690
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11690
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 658,
+                "cocktail_id": 11690
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 659,
+                "cocktail_id": 11690
+            }
+        ]
+    },
+    {
+        "id": 11720,
+        "name": "Martinez Cocktail",
+        "category": "Cocktail",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.",
+        "imageUrl": "https://localhost/images/ingredients/martinez-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11720
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 106,
+                "cocktail_id": 11720
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11720
+            },
+            {
+                "measure": "1/4 tsp ",
+                "ingredient_id": 623,
+                "cocktail_id": 11720
+            },
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 631,
+                "cocktail_id": 11720
+            }
+        ]
+    },
+    {
+        "id": 11728,
+        "name": "Martini",
+        "category": "Cocktail",
+        "glass": "Cocktail glass",
+        "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+        "imageUrl": "https://localhost/images/ingredients/martini.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 2/3 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11728
+            },
+            {
+                "measure": "1/3 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11728
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 347,
+                "cocktail_id": 11728
+            }
+        ]
+    },
+    {
+        "id": 11766,
+        "name": "Midnight Cowboy",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
+        "imageUrl": "https://localhost/images/ingredients/midnight-cowboy.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11766
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 259,
+                "cocktail_id": 11766
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 637,
+                "cocktail_id": 11766
+            }
+        ]
+    },
+    {
+        "id": 11786,
+        "name": "Mississippi Planters Punch",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/mississippi-planters-punch.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 71,
+                "cocktail_id": 11786
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11786
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11786
+            },
+            {
+                "measure": "Juice of 1/2",
+                "ingredient_id": 620,
+                "cocktail_id": 11786
+            },
+            {
+                "measure": "1 tblsp",
+                "ingredient_id": 622,
+                "cocktail_id": 11786
+            },
+            {
+                "measure": null,
+                "ingredient_id": 642,
+                "cocktail_id": 11786
+            }
+        ]
+    },
+    {
+        "id": 11798,
+        "name": "Monkey Wrench",
+        "category": "Ordinary Drink",
+        "glass": "Old-fashioned glass",
+        "instructions": "Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.",
+        "imageUrl": "https://localhost/images/ingredients/monkey-wrench.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 dash ",
+                "ingredient_id": 56,
+                "cocktail_id": 11798
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11798
+            },
+            {
+                "measure": "3 oz ",
+                "ingredient_id": 660,
+                "cocktail_id": 11798
+            }
+        ]
+    },
+    {
+        "id": 11844,
+        "name": "New York Sour",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.",
+        "imageUrl": "https://localhost/images/ingredients/new-york-sour.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": null,
+                "ingredient_id": 106,
+                "cocktail_id": 11844
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 476,
+                "cocktail_id": 11844
+            },
+            {
+                "measure": null,
+                "ingredient_id": 620,
+                "cocktail_id": 11844
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 621,
+                "cocktail_id": 11844
+            },
+            {
+                "measure": " (Claret)\n",
+                "ingredient_id": 661,
+                "cocktail_id": 11844
+            }
+        ]
+    },
+    {
+        "id": 11870,
+        "name": "Orange Oasis",
+        "category": "Ordinary Drink",
+        "glass": "Highball glass",
+        "instructions": "Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/orange-oasis.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11870
+            },
+            {
+                "measure": null,
+                "ingredient_id": 627,
+                "cocktail_id": 11870
+            },
+            {
+                "measure": "4 oz ",
+                "ingredient_id": 650,
+                "cocktail_id": 11870
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 653,
+                "cocktail_id": 11870
+            }
+        ]
+    },
+    {
+        "id": 11872,
+        "name": "Orgasm",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/orgasm.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 1,
+                "cocktail_id": 11872
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 18,
+                "cocktail_id": 11872
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 623,
+                "cocktail_id": 11872
+            },
+            {
+                "measure": "1/2 oz white ",
+                "ingredient_id": 633,
+                "cocktail_id": 11872
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11872
+            }
+        ]
+    },
+    {
+        "id": 11936,
+        "name": "Pink Gin",
+        "category": "Ordinary Drink",
+        "glass": "White wine glass",
+        "instructions": "Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.",
+        "imageUrl": "https://localhost/images/ingredients/pink-gin.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11936
+            },
+            {
+                "measure": "3 dashes ",
+                "ingredient_id": 56,
+                "cocktail_id": 11936
+            }
+        ]
+    },
+    {
+        "id": 11938,
+        "name": "Pink Lady",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/pink-lady.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11938
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11938
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 634,
+                "cocktail_id": 11938
+            },
+            {
+                "measure": "1 ",
+                "ingredient_id": 638,
+                "cocktail_id": 11938
+            }
+        ]
+    },
+    {
+        "id": 11959,
+        "name": "Poppy Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/poppy-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11959
+            },
+            {
+                "measure": "3/4 oz white ",
+                "ingredient_id": 633,
+                "cocktail_id": 11959
+            }
+        ]
+    },
+    {
+        "id": 11961,
+        "name": "Port And Starboard",
+        "category": "Ordinary Drink",
+        "glass": "Pousse cafe glass",
+        "instructions": "Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.",
+        "imageUrl": "https://localhost/images/ingredients/port-and-starboard.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 246,
+                "cocktail_id": 11961
+            },
+            {
+                "measure": "1 tblsp ",
+                "ingredient_id": 250,
+                "cocktail_id": 11961
+            }
+        ]
+    },
+    {
+        "id": 11963,
+        "name": "Port Wine Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/port-wine-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 tsp ",
+                "ingredient_id": 74,
+                "cocktail_id": 11963
+            },
+            {
+                "measure": "2 1/2 oz ",
+                "ingredient_id": 406,
+                "cocktail_id": 11963
+            }
+        ]
+    },
+    {
+        "id": 11965,
+        "name": "Port Wine Flip",
+        "category": "Ordinary Drink",
+        "glass": "Whiskey sour glass",
+        "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.",
+        "imageUrl": "https://localhost/images/ingredients/port-wine-flip.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 whole ",
+                "ingredient_id": 194,
+                "cocktail_id": 11965
+            },
+            {
+                "measure": null,
+                "ingredient_id": 344,
+                "cocktail_id": 11965
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 406,
+                "cocktail_id": 11965
+            },
+            {
+                "measure": "1 tsp ",
+                "ingredient_id": 622,
+                "cocktail_id": 11965
+            },
+            {
+                "measure": "2 tsp ",
+                "ingredient_id": 634,
+                "cocktail_id": 11965
+            }
+        ]
+    },
+    {
+        "id": 11983,
+        "name": "Quaker's Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/quakers-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 74,
+                "cocktail_id": 11983
+            },
+            {
+                "measure": "2 tsp ",
+                "ingredient_id": 418,
+                "cocktail_id": 11983
+            },
+            {
+                "measure": "3/4 oz ",
+                "ingredient_id": 617,
+                "cocktail_id": 11983
+            },
+            {
+                "measure": "Juice of 1/4 ",
+                "ingredient_id": 620,
+                "cocktail_id": 11983
+            }
+        ]
+    },
+    {
+        "id": 11985,
+        "name": "Quarter Deck Cocktail",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/quarter-deck-cocktail.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "Juice of 1/2 ",
+                "ingredient_id": 312,
+                "cocktail_id": 11985
+            },
+            {
+                "measure": "1/3 oz cream ",
+                "ingredient_id": 449,
+                "cocktail_id": 11985
+            },
+            {
+                "measure": "1 1/2 ",
+                "ingredient_id": 617,
+                "cocktail_id": 11985
+            }
+        ]
+    },
+    {
+        "id": 11987,
+        "name": "Queen Bee",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/queen-bee.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 311,
+                "cocktail_id": 11987
+            },
+            {
+                "measure": "1/2 oz cream ",
+                "ingredient_id": 449,
+                "cocktail_id": 11987
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 662,
+                "cocktail_id": 11987
+            }
+        ]
+    },
+    {
+        "id": 11989,
+        "name": "Queen Charlotte",
+        "category": "Ordinary Drink",
+        "glass": "Collins glass",
+        "instructions": "Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/queen-charlotte.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 250,
+                "cocktail_id": 11989
+            },
+            {
+                "measure": null,
+                "ingredient_id": 297,
+                "cocktail_id": 11989
+            },
+            {
+                "measure": "2 oz ",
+                "ingredient_id": 661,
+                "cocktail_id": 11989
+            }
+        ]
+    },
+    {
+        "id": 11991,
+        "name": "Queen Elizabeth",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+        "imageUrl": "https://localhost/images/ingredients/queen-elizabeth.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 2,
+                "cocktail_id": 11991
+            },
+            {
+                "measure": "1 1/2 tsp ",
+                "ingredient_id": 53,
+                "cocktail_id": 11991
+            },
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 189,
+                "cocktail_id": 11991
+            }
+        ]
+    },
+    {
+        "id": 11993,
+        "name": "Quentin",
+        "category": "Ordinary Drink",
+        "glass": "Cocktail glass",
+        "instructions": "In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.",
+        "imageUrl": "https://localhost/images/ingredients/quentin.png",
+        "alcoholic": true,
+        "ingredients": [
+            {
+                "measure": "1/2 oz ",
+                "ingredient_id": 282,
+                "cocktail_id": 11993
+            },
+            {
+                "measure": "1/8 tsp grated ",
+                "ingredient_id": 344,
+                "cocktail_id": 11993
+            },
+            {
+                "measure": "1 oz ",
+                "ingredient_id": 634,
+                "cocktail_id": 11993
+            },
+            {
+                "measure": "1 1/2 oz ",
+                "ingredient_id": 637,
+                "cocktail_id": 11993
+            }
+        ]
+    }
+]
