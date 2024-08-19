@@ -43,6 +43,7 @@
     "@swc/core": "^1.7.6",
     "@types/luxon": "^3.4.2",
     "@types/node": "^22.1.0",
+    "@types/slug": "^5.0.9",
     "eslint": "^8.57.0",
     "hot-hook": "^0.2.6",
     "pino-pretty": "^11.2.2",
@@ -54,11 +55,14 @@
     "@adonisjs/auth": "^9.2.3",
     "@adonisjs/core": "^6.12.1",
     "@adonisjs/cors": "^2.2.1",
+    "@adonisjs/drive": "^3.2.0",
     "@adonisjs/lucid": "^21.1.1",
+    "@adonisjs/static": "^1.1.1",
     "@vinejs/vine": "^2.1.0",
     "luxon": "^3.5.0",
     "pg": "^8.12.0",
-    "reflect-metadata": "^0.2.2"
+    "reflect-metadata": "^0.2.2",
+    "slug": "^9.1.0"
   },
   "hotHook": {
     "boundaries": [
