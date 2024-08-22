@@ -16,7 +16,9 @@ export const handleSearchQuery = () =>
       } else {
         if (Number.isNaN(Number(value))) {
           query.whereLike(param, value)
-        } else [query.where(param, value)]
+        } else {
+          query.where(param, value)
+        }
       }
     }
   })
