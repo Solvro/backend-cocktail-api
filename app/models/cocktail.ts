@@ -4,6 +4,8 @@ import Ingredient from './ingredient.js'
 import type { ManyToMany } from '@adonisjs/lucid/types/relations'
 import { CocktailCategory } from '../enums/cocktail_category.js'
 import { CocktailGlass } from '../enums/cocktail_glass.js'
+import { handleSearchQuery } from '../hooks/handle_search_query.js'
+import { handleSortQuery } from '../hooks/handle_sort_query.js'
 
 export default class Cocktail extends BaseModel {
   @column({ isPrimary: true })
@@ -26,6 +28,10 @@ export default class Cocktail extends BaseModel {
 
   @column()
   declare alcoholic: boolean
+
+  static handleSearchQuery = handleSearchQuery()
+
+  static handleSortQuery = handleSortQuery(this)
 
   @manyToMany(() => Ingredient, {
     pivotColumns: ['measure'],
