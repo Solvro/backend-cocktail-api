@@ -24,10 +24,17 @@ export default class Ingredient extends BaseModel {
   @column()
   declare imageUrl: string
 
-  @column.dateTime({ autoCreate: true })
+  @column.dateTime({
+    autoCreate: true,
+    serialize: (value) => value.toFormat('yyyy-LL-dd HH:mm:ss'),
+  })
   declare createdAt: DateTime
 
-  @column.dateTime({ autoCreate: true, autoUpdate: true })
+  @column.dateTime({
+    autoCreate: true,
+    autoUpdate: true,
+    serialize: (value) => value.toFormat('yyyy-LL-dd HH:mm:ss'),
+  })
   declare updatedAt: DateTime
 
   serializeExtras() {

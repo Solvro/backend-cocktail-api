@@ -8,9 +8,10 @@
 */
 
 import router from '@adonisjs/core/services/router'
+const IngredientsController = () => import('#controllers/ingredients_controller')
 
-router.get('/', async () => {
-  return {
-    hello: 'world',
-  }
-})
+router
+  .group(() => {
+    router.resource('ingredients', IngredientsController).only(['show', 'index'])
+  })
+  .prefix('api/v1')
