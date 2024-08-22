@@ -8,7 +8,7 @@ export default class IngredientsController {
    */
   async show({ request }: HttpContext) {
     const ingredient = await Ingredient.findOrFail(request.param('id'))
-    return ingredient
+    return { data: ingredient }
   }
 
   /**
@@ -28,8 +28,8 @@ export default class IngredientsController {
             'type',
             'percentage',
             'imageUrl',
-            'created_at',
-            'updated_at',
+            'createdAt',
+            'updatedAt',
           ])
         )
       })
