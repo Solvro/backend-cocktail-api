@@ -5,7 +5,7 @@
         "category": "Cocktail",
         "glass": "Highball glass",
         "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
-        "imageUrl": "https://localhost/images/ingredients/mojito.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/mojito.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -41,7 +41,7 @@
         "category": "Cocktail",
         "glass": "Old-fashioned glass",
         "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\r\nFill the glass with ice cubes and add whiskey.\r\n\r\nGarnish with orange twist, and a cocktail cherry.",
-        "imageUrl": "https://localhost/images/ingredients/old-fashioned.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/old-fashioned.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -72,7 +72,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.",
-        "imageUrl": "https://localhost/images/ingredients/long-island-tea.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/long-island-tea.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -113,7 +113,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Stir into glass over ice, garnish and serve.",
-        "imageUrl": "https://localhost/images/ingredients/negroni.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/negroni.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -139,7 +139,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
-        "imageUrl": "https://localhost/images/ingredients/whiskey-sour.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/whiskey-sour.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -170,7 +170,7 @@
         "category": "Cocktail",
         "glass": "Cocktail glass",
         "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
-        "imageUrl": "https://localhost/images/ingredients/dry-martini.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/dry-martini.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -196,7 +196,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/daiquiri.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/daiquiri.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -222,7 +222,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
-        "imageUrl": "https://localhost/images/ingredients/margarita.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/margarita.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -253,7 +253,7 @@
         "category": "Cocktail",
         "glass": "Cocktail glass",
         "instructions": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
-        "imageUrl": "https://localhost/images/ingredients/manhattan.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/manhattan.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -294,7 +294,7 @@
         "category": "Punch / Party Drink",
         "glass": "Copper Mug",
         "instructions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.",
-        "imageUrl": "https://localhost/images/ingredients/moscow-mule.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/moscow-mule.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -320,7 +320,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients (except lime wedge) with ice and strain into a cocktail glass. Add the wedge of lime and serve.",
-        "imageUrl": "https://localhost/images/ingredients/after-dinner-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/after-dinner-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -346,7 +346,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/after-supper-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/after-supper-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -372,7 +372,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/alabama-slammer.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/alabama-slammer.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -403,7 +403,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass. Drop in a twist of lemon and serve.",
-        "imageUrl": "https://localhost/images/ingredients/alaska-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/alaska-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -434,7 +434,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
-        "imageUrl": "https://localhost/images/ingredients/alexander.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/alexander.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -465,7 +465,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey Glass",
         "instructions": "Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
-        "imageUrl": "https://localhost/images/ingredients/brandy-alexander.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/brandy-alexander.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -496,7 +496,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/alfie-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/alfie-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -522,7 +522,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/algonquin.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/algonquin.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -548,7 +548,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.",
-        "imageUrl": "https://localhost/images/ingredients/allegheny.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/allegheny.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -584,7 +584,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients with ice, strain contents into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/allies-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/allies-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -610,7 +610,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/almeria.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/almeria.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -636,7 +636,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/almond-joy.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/almond-joy.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -662,7 +662,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake well with cracked ice, strain contents into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/amaretto-and-cream.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/amaretto-and-cream.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -683,7 +683,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Pour amaretto in an old-fashioned glass over crushed ice. Add the wedge of lime and serve. (A wedge of lemon may be substituted for lime, if preferred.)",
-        "imageUrl": "https://localhost/images/ingredients/amaretto-mist.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/amaretto-mist.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -704,7 +704,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.",
-        "imageUrl": "https://localhost/images/ingredients/amaretto-rose.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/amaretto-rose.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -730,7 +730,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/amaretto-stinger.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/amaretto-stinger.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -751,7 +751,7 @@
         "category": "Ordinary Drink",
         "glass": "Pousse cafe glass",
         "instructions": "Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.",
-        "imageUrl": "https://localhost/images/ingredients/amaretto-tea.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/amaretto-tea.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -777,7 +777,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/angel-face.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/angel-face.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -803,7 +803,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/applecar.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/applecar.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -829,7 +829,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the rum, apricot brandy, triple sec, lemon juice, and egg white. Shake well. Strain into an old-fashioned glass almost filled with ice cubes. Garnish with the orange slice.",
-        "imageUrl": "https://localhost/images/ingredients/apricot-lady.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/apricot-lady.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -870,7 +870,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",
-        "imageUrl": "https://localhost/images/ingredients/archbishop.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/archbishop.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -901,7 +901,7 @@
         "category": "Ordinary Drink",
         "glass": "Champagne flute",
         "instructions": "Put creme de menthe into a champagne flute. Fill with chilled champagne and serve.",
-        "imageUrl": "https://localhost/images/ingredients/arise-my-love.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/arise-my-love.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -922,7 +922,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the gin, Grand Marnier, and lemon juice. Shake well. Strain into a sour glass and garnish with the lemon twist.",
-        "imageUrl": "https://localhost/images/ingredients/arthur-tompkins.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/arthur-tompkins.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -953,7 +953,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/artillery.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/artillery.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -979,7 +979,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/balmoral.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/balmoral.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1010,7 +1010,7 @@
         "category": "Ordinary Drink",
         "glass": "Champagne flute",
         "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/banana-daiquiri.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/banana-daiquiri.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1051,7 +1051,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Pour brandy, gin, and dry vermouth into a highball glass over ice cubes. Fill with carbonated water and stir. Add the twist of lemon and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
-        "imageUrl": "https://localhost/images/ingredients/bermuda-highball.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/bermuda-highball.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1087,7 +1087,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Pour the ingredients into an old fashioned glass filled with ice cubes. Stir gently.",
-        "imageUrl": "https://localhost/images/ingredients/black-russian.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/black-russian.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1108,7 +1108,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
-        "imageUrl": "https://localhost/images/ingredients/blackthorn.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/blackthorn.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1134,7 +1134,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.",
-        "imageUrl": "https://localhost/images/ingredients/bloody-maria.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/bloody-maria.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1175,7 +1175,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Stirring gently, pour all ingredients into highball glass. Garnish.",
-        "imageUrl": "https://localhost/images/ingredients/bloody-mary.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/bloody-mary.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1216,7 +1216,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/blue-lagoon.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/blue-lagoon.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1247,7 +1247,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/blue-margarita.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/blue-margarita.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1278,7 +1278,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into an old-fashioned glass almost filled with ice cubes.",
-        "imageUrl": "https://localhost/images/ingredients/blue-mountain.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/blue-mountain.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1314,7 +1314,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.",
-        "imageUrl": "https://localhost/images/ingredients/bluebird.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/bluebird.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1355,7 +1355,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
-        "imageUrl": "https://localhost/images/ingredients/bobby-burns-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/bobby-burns-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1386,7 +1386,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry.",
-        "imageUrl": "https://localhost/images/ingredients/boomerang.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/boomerang.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1422,7 +1422,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/boston-sidecar.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/boston-sidecar.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1453,7 +1453,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/boston-sour.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/boston-sour.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1489,7 +1489,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.",
-        "imageUrl": "https://localhost/images/ingredients/classic-old-fashioned.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/classic-old-fashioned.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1530,7 +1530,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.",
-        "imageUrl": "https://localhost/images/ingredients/bourbon-sling.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/bourbon-sling.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1566,7 +1566,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and sugar. Shake well. Strain into a whiskey sour glass, garnish with the orange slice and cherry.",
-        "imageUrl": "https://localhost/images/ingredients/bourbon-sour.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/bourbon-sour.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1602,7 +1602,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
-        "imageUrl": "https://localhost/images/ingredients/boxcar.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/boxcar.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1638,7 +1638,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.",
-        "imageUrl": "https://localhost/images/ingredients/brandy-cobbler.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/brandy-cobbler.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1679,7 +1679,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.",
-        "imageUrl": "https://localhost/images/ingredients/brandy-flip.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/brandy-flip.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1715,7 +1715,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "Shake brandy, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with the lemon slice, top with the cherry, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/brandy-sour.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/brandy-sour.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1746,7 +1746,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.",
-        "imageUrl": "https://localhost/images/ingredients/caipirinha.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/caipirinha.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1772,7 +1772,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.",
-        "imageUrl": "https://localhost/images/ingredients/california-lemonade.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/california-lemonade.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1813,7 +1813,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/casa-blanca.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/casa-blanca.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1844,7 +1844,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
-        "imageUrl": "https://localhost/images/ingredients/casino-royale.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/casino-royale.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1880,7 +1880,7 @@
         "category": "Ordinary Drink",
         "glass": "Champagne flute",
         "instructions": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.",
-        "imageUrl": "https://localhost/images/ingredients/champagne-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/champagne-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1916,7 +1916,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/cherry-rum.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/cherry-rum.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1942,7 +1942,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/chicago-fizz.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/chicago-fizz.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -1983,7 +1983,7 @@
         "category": "Ordinary Drink",
         "glass": "Champagne flute",
         "instructions": "Combine all ingredients in an electric blender and blend at a low speed for a short length of time. Pour into a chilled champagne flute and serve.",
-        "imageUrl": "https://localhost/images/ingredients/chocolate-black-russian.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/chocolate-black-russian.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2009,7 +2009,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/city-slicker.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/city-slicker.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2035,7 +2035,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/clove-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/clove-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2061,7 +2061,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.",
-        "imageUrl": "https://localhost/images/ingredients/cuba-libre.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/cuba-libre.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2087,7 +2087,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.",
-        "imageUrl": "https://localhost/images/ingredients/dragonfly.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/dragonfly.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2113,7 +2113,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
-        "imageUrl": "https://localhost/images/ingredients/dry-rob-roy.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/dry-rob-roy.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2139,7 +2139,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
-        "imageUrl": "https://localhost/images/ingredients/dubonnet-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/dubonnet-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2170,7 +2170,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)",
-        "imageUrl": "https://localhost/images/ingredients/english-highball.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/english-highball.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2206,7 +2206,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered sugar. Shake all ingredients (except cherry) with ice and strain into sugar-rimmed glass. Top with the cherry and serve.",
-        "imageUrl": "https://localhost/images/ingredients/english-rose-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/english-rose-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2247,7 +2247,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.",
-        "imageUrl": "https://localhost/images/ingredients/flying-dutchman.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/flying-dutchman.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2268,7 +2268,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/flying-scotchman.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/flying-scotchman.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2299,7 +2299,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/foxy-lady.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/foxy-lady.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2325,7 +2325,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.",
-        "imageUrl": "https://localhost/images/ingredients/frisco-sour.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/frisco-sour.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2356,7 +2356,7 @@
         "category": "Ordinary Drink",
         "glass": "Champagne flute",
         "instructions": "Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/frozen-daiquiri.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/frozen-daiquiri.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2397,7 +2397,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short length of time. Pour into an old-fashioned glass and serve.",
-        "imageUrl": "https://localhost/images/ingredients/frozen-mint-daiquiri.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/frozen-mint-daiquiri.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2428,7 +2428,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.",
-        "imageUrl": "https://localhost/images/ingredients/gentlemans-club.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gentlemans-club.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2459,7 +2459,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Pour the gin and the tonic water into a highball glass almost filled with ice cubes. Stir well. Garnish with the lime wedge.",
-        "imageUrl": "https://localhost/images/ingredients/gin-and-tonic.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-and-tonic.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2485,7 +2485,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.",
-        "imageUrl": "https://localhost/images/ingredients/gin-cooler.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-cooler.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2521,7 +2521,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.",
-        "imageUrl": "https://localhost/images/ingredients/gin-daisy.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-daisy.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2562,7 +2562,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
-        "imageUrl": "https://localhost/images/ingredients/gin-fizz.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-fizz.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2593,7 +2593,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve.",
-        "imageUrl": "https://localhost/images/ingredients/gin-sling.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-sling.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2629,7 +2629,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/gin-smash.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-smash.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2670,7 +2670,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.",
-        "imageUrl": "https://localhost/images/ingredients/gin-sour.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-sour.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2706,7 +2706,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.",
-        "imageUrl": "https://localhost/images/ingredients/gin-squirt.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-squirt.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2747,7 +2747,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda.",
-        "imageUrl": "https://localhost/images/ingredients/gin-swizzle.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-swizzle.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2783,7 +2783,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/gin-toddy.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/gin-toddy.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2814,7 +2814,7 @@
         "category": "Ordinary Drink",
         "glass": "Champagne flute",
         "instructions": "Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/godchild.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/godchild.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2840,7 +2840,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
-        "imageUrl": "https://localhost/images/ingredients/godfather.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/godfather.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2861,7 +2861,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Pour vodka and amaretto into an old-fashioned glass over ice and serve.",
-        "imageUrl": "https://localhost/images/ingredients/godmother.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/godmother.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2882,7 +2882,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.",
-        "imageUrl": "https://localhost/images/ingredients/grass-skirt.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/grass-skirt.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2918,7 +2918,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.",
-        "imageUrl": "https://localhost/images/ingredients/harvey-wallbanger.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/harvey-wallbanger.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2944,7 +2944,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/havana-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/havana-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2970,7 +2970,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/hawaiian-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/hawaiian-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -2996,7 +2996,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.",
-        "imageUrl": "https://localhost/images/ingredients/highland-fling-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/highland-fling-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3027,7 +3027,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/imperial-fizz.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/imperial-fizz.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3063,7 +3063,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Pour all ingredients (except orange slice and cherry) into a collins glass over ice cubes. Garnish with the slice of orange, add the cherry on top, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/irish-spring.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/irish-spring.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3104,7 +3104,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/jack-rose-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/jack-rose-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3130,7 +3130,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/japanese-fizz.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/japanese-fizz.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3171,7 +3171,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/jewel-of-the-nile.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/jewel-of-the-nile.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3197,7 +3197,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.",
-        "imageUrl": "https://localhost/images/ingredients/john-collins.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/john-collins.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3238,7 +3238,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients together with ice. Strain into glass, garnish and serve.",
-        "imageUrl": "https://localhost/images/ingredients/kamikaze.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/kamikaze.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3264,7 +3264,7 @@
         "category": "Ordinary Drink",
         "glass": "Brandy snifter",
         "instructions": "Pour the bourbon and Benedictine into a brandy snifter.",
-        "imageUrl": "https://localhost/images/ingredients/kentucky-b-and-b.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/kentucky-b-and-b.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3285,7 +3285,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a shaker half-filled with ice cubes combine the courbon and Benedictine. Shake and strain into a cocktail glass. Garnish with the lemon twist.",
-        "imageUrl": "https://localhost/images/ingredients/kentucky-colonel.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/kentucky-colonel.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3311,7 +3311,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/lady-love-fizz.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/lady-love-fizz.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3352,7 +3352,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.",
-        "imageUrl": "https://localhost/images/ingredients/loch-lomond.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/loch-lomond.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3383,7 +3383,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/london-town.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/london-town.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3409,7 +3409,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/lone-tree-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/lone-tree-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3430,7 +3430,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.",
-        "imageUrl": "https://localhost/images/ingredients/lone-tree-cooler.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/lone-tree-cooler.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3471,7 +3471,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.",
-        "imageUrl": "https://localhost/images/ingredients/lord-and-lady.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/lord-and-lady.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3492,7 +3492,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
-        "imageUrl": "https://localhost/images/ingredients/mai-tai.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/mai-tai.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3528,7 +3528,7 @@
         "category": "Cocktail",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.",
-        "imageUrl": "https://localhost/images/ingredients/martinez-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/martinez-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3564,7 +3564,7 @@
         "category": "Cocktail",
         "glass": "Cocktail glass",
         "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
-        "imageUrl": "https://localhost/images/ingredients/martini.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/martini.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3590,7 +3590,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
-        "imageUrl": "https://localhost/images/ingredients/midnight-cowboy.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/midnight-cowboy.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3616,7 +3616,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/mississippi-planters-punch.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/mississippi-planters-punch.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3657,7 +3657,7 @@
         "category": "Ordinary Drink",
         "glass": "Old-fashioned glass",
         "instructions": "Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.",
-        "imageUrl": "https://localhost/images/ingredients/monkey-wrench.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/monkey-wrench.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3683,7 +3683,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.",
-        "imageUrl": "https://localhost/images/ingredients/new-york-sour.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/new-york-sour.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3719,7 +3719,7 @@
         "category": "Ordinary Drink",
         "glass": "Highball glass",
         "instructions": "Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/orange-oasis.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/orange-oasis.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3750,7 +3750,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/orgasm.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/orgasm.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3786,7 +3786,7 @@
         "category": "Ordinary Drink",
         "glass": "White wine glass",
         "instructions": "Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.",
-        "imageUrl": "https://localhost/images/ingredients/pink-gin.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/pink-gin.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3807,7 +3807,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/pink-lady.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/pink-lady.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3838,7 +3838,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/poppy-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/poppy-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3859,7 +3859,7 @@
         "category": "Ordinary Drink",
         "glass": "Pousse cafe glass",
         "instructions": "Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.",
-        "imageUrl": "https://localhost/images/ingredients/port-and-starboard.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/port-and-starboard.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3880,7 +3880,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/port-wine-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/port-wine-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3901,7 +3901,7 @@
         "category": "Ordinary Drink",
         "glass": "Whiskey sour glass",
         "instructions": "Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.",
-        "imageUrl": "https://localhost/images/ingredients/port-wine-flip.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/port-wine-flip.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3937,7 +3937,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/quakers-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/quakers-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3968,7 +3968,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/quarter-deck-cocktail.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/quarter-deck-cocktail.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -3994,7 +3994,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/queen-bee.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/queen-bee.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -4020,7 +4020,7 @@
         "category": "Ordinary Drink",
         "glass": "Collins glass",
         "instructions": "Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/queen-charlotte.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/queen-charlotte.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -4046,7 +4046,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
-        "imageUrl": "https://localhost/images/ingredients/queen-elizabeth.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/queen-elizabeth.png",
         "alcoholic": true,
         "ingredients": [
             {
@@ -4072,7 +4072,7 @@
         "category": "Ordinary Drink",
         "glass": "Cocktail glass",
         "instructions": "In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.",
-        "imageUrl": "https://localhost/images/ingredients/quentin.png",
+        "imageUrl": "https://cocktails.solvro.pl/images/ingredients/quentin.png",
         "alcoholic": true,
         "ingredients": [
             {
