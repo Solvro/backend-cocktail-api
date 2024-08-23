@@ -14,7 +14,7 @@ export const handleSearchQuery = () =>
         if (value.from) query.where(param, '>=', value.from)
         if (value.to ?? false) query.where(param, '<=', value.to)
       } else {
-        if (Number.isNaN(Number(value))) {
+        if (Number.isNaN(Number(value)) && !['true', 'false'].includes(value)) {
           query.whereLike(param, value)
         } else {
           query.where(param, value)
