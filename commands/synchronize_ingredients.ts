@@ -106,7 +106,7 @@ export default class SynchronizeIngredients extends BaseCommand {
         type: this.matchIngredientType(ingredient?.strType?.trim() ?? null),
         alcohol: ingredient.strAlcohol === 'Yes',
         percentage: ingredient.strABV,
-        imageUrl: `https://${process.env.HOST}/images/ingredients/${slug(ingredient.strIngredient)}.png`,
+        imageUrl: `https://${process.env.APP_DOMAIN}/images/ingredients/${slug(ingredient.strIngredient)}.png`,
       }
     )
   }
