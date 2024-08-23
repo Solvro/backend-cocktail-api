@@ -24,4 +24,5 @@ yarn-error.log
 # Platform specific
 .DS_Store
 
-public/images
+public/images/cocktails
+public/images/ingredients

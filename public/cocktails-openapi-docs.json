@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Solvro Cocktails API",
-    "description": "The Solvro Cocktails API API allows fetch cocktails recipies with ingreadients bases on thecocktailsdb. This api is mainly used for recrutacion purposes, but fell free to build whatever you like with it <center> <img width='40%' src=\"/images/logo.png\" /> </center>",
+    "description": "The Solvro Cocktails API API allows fetch cocktails recipes with ingredients bases on thecocktailsdb. This api is mainly used for recrutation purposes, but fell free to build whatever you like with it <center> <img src=\"/images/banner.png\" /> </center>",
     "contact": {
       "email": "kn.solvro@pwr.edu.pl"
     },
@@ -38,8 +38,8 @@
           "Ingredients"
         ],
         "summary": "Display listing of ingredients",
-        "description": "Allows you to display listing of ingreadients with filtering and sorting support. All parametrs support exact, like, list, range filtering.",
-        "operationId": "ingreadientsIndex",
+        "description": "Allows you to display listing of ingredients with filtering and sorting support. All parameters support exact, like, list, range filtering.",
+        "operationId": "ingredientsIndex",
         "parameters": [
           {
             "name": "id",
@@ -88,7 +88,7 @@
           {
             "name": "description",
             "in": "query",
-            "description": "Allows you to filter description. Support like, so you can search by parial description with %keyword%",
+            "description": "Allows you to filter description. Support like, so you can search by partial description with %keyword%",
             "schema": {
               "type": "number"
             }
@@ -96,7 +96,7 @@
           {
             "name": "alcohol",
             "in": "query",
-            "description": "Allows you to filter wheather or not ingredient contains alcohol. Supports 1/0 and true/false",
+            "description": "Allows you to filter whether or not ingredient contains alcohol. Supports 1/0 and true/false",
             "schema": {
               "type": "boolean"
             }
@@ -112,7 +112,7 @@
           {
             "name": "percentage",
             "in": "query",
-            "description": "Allows you to filter by alcohol percentage as inteager value. Supports exact, list, range filtering.",
+            "description": "Allows you to filter by alcohol percentage as integer value. Supports exact, list, range filtering.",
             "schema": {
               "type": "number"
             }
@@ -266,7 +266,7 @@
         ],
         "summary": "Display listing of ingredients types",
         "description": "Display list of ingredients types that can be further used for filtering",
-        "operationId": "ingreadientsTypesIndex",
+        "operationId": "ingredientsTypesIndex",
         "responses": {
           "200": {
             "description": "successful operation",
@@ -295,7 +295,7 @@
           "Cocktails"
         ],
         "summary": "Display listing of cocktails",
-        "description": "Allows you to display listing of cocktails with filtering and sorting support. All parametrs support exact, like, list, range filtering. You can also filter by ingredient id and attach ingredients.",
+        "description": "Allows you to display listing of cocktails with filtering and sorting support. All parameters support exact, like, list, range filtering. You can also filter by ingredient id and attach ingredients.",
         "operationId": "cocktailIndex",
         "parameters": [
           {
@@ -345,7 +345,7 @@
           {
             "name": "instructions",
             "in": "query",
-            "description": "Allows you to filter instructions. Support like, so you can search by parial instructions with %keyword%",
+            "description": "Allows you to filter instructions. Support like, so you can search by partial instructions with %keyword%",
             "schema": {
               "type": "number"
             }
@@ -353,7 +353,7 @@
           {
             "name": "alcoholic",
             "in": "query",
-            "description": "Allows you to filter wheather or not cocktail contains alcohol. Supports 1/0 and true/false",
+            "description": "Allows you to filter whether or not cocktail contains alcohol. Supports 1/0 and true/false",
             "schema": {
               "type": "boolean"
             }
@@ -851,7 +851,7 @@
           },
           "createdAt": {
             "type": "string",
-            "format": "datetime",
+            "format": "date-time",
             "examples": [
               "2024-08-19 18:39:58",
               "2024-08-20 13:19:58"
@@ -859,7 +859,7 @@
           },
           "updatedAt": {
             "type": "string",
-            "format": "datetime",
+            "format": "date-time",
             "examples": [
               "2024-08-19 18:39:58",
               "2024-08-21 10:12:58"
