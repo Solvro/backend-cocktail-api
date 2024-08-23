@@ -119,6 +119,7 @@ export default class SynchronizeIngredients extends BaseCommand {
   matchIngredientType(type: string): IngredientType {
     return ({
       'Fortified wine': 'Fortified Wine',
+      'aperitif': 'Aperitif',
     }[type] ?? type) as IngredientType
   }
 

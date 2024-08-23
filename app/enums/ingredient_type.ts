@@ -48,7 +48,6 @@ export enum IngredientType {
   Tea = 'Tea',
   Port = 'Port',
   Vinegar = 'Vinegar',
-  aperitif = 'aperitif',
   Confectionery = 'Confectionery',
   Vermouth = 'Vermouth',
   Mixer = 'Mixer',
