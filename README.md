@@ -10,7 +10,10 @@ We store cocktails and their ingredients. Each cocktail can have several ingredi
 
 ![Database Schema](./diagram.png)
 
-// paste updated db and enums
+We have 3 enums stored in app/enums directory:
+- CocktailCategory
+- CocktailGlass
+- IngredientType
 
 ### Technologies
 
@@ -18,7 +21,7 @@ This API is built with Node.js using the [Adonis.js framework](https://adonisjs.
 
 ### Documentation
 
-API documentation using Swagger can be found [here](#).
+API documentation using Swagger can be found [here](https://cocktails.solvro.pl) and on the main page of the app.
 
 ### Installation
 
@@ -61,7 +64,7 @@ The output files will be located in the `build` directory. Expose the `build/pub
 
 ### Testing
 
-Basic tests are implemented. To run them:
+Basic tests will be implemented. To run them:
 ```
 node ace test
 ```

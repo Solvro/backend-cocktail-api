@@ -14,6 +14,8 @@ const CocktailGlassesController = () => import('#controllers/cocktail_glasses_co
 const CocktailCategoriesController = () => import('#controllers/cocktail_categories_controller')
 const IngredientTypesController = () => import('#controllers/ingredient_types_controlles')
 
+router.on('/').render('documentation')
+
 router
   .group(() => {
     router.get('ingredients/types', [IngredientTypesController])
@@ -24,3 +26,5 @@ router
     router.resource('cocktails', CocktailsController).only(['show', 'index'])
   })
   .prefix('api/v1')
+
+router.on('*').redirect('/')
