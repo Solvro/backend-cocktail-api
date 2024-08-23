@@ -41,7 +41,7 @@ export default class CocktailsController {
         })
       })
       .if(['1', 'true'].includes(ingredients), (query) => query.preload('ingredients'))
-      .paginate(request.input('page'), request.input('perPage', 15))
+      .paginate(request.input('page', 1), request.input('perPage', 15))
 
     return cocktails
   }

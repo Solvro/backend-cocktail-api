@@ -33,7 +33,7 @@ export default class IngredientsController {
           ])
         )
       })
-      .paginate(request.input('page'), request.input('perPage', 15))
+      .paginate(request.input('page', 1), request.input('perPage', 15))
 
     return ingredients
   }
