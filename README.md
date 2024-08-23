@@ -91,11 +91,11 @@ To synchronize (scrape) cocktails:
 Ensure ingredients are synchronized first.
 Synchronize all cocktails:
   ```
-  node ace synchronize:coctails
+  node ace synchronize:cocktails
   ```
 Synchronize one cocktail by ID (e.g., 11004):
   ```
-  node ace synchronize:coctails 11004
+  node ace synchronize:cocktails 11004
   ```
 
 ### Contributing
