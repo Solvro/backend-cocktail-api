@@ -123,7 +123,7 @@ export default class SynchronizeCocktails extends BaseCommand {
         alcoholic: drink.strAlcoholic === 'Alcoholic',
         glass: drink.strGlass,
         instructions: drink.strInstructions,
-        imageUrl: `https://${process.env.HOST}/images/ingredients/${slug(drink.strDrink)}.png`,
+        imageUrl: `https://${process.env.HOST}/images/cocktails/${slug(drink.strDrink)}.png`,
       }
     )
 
