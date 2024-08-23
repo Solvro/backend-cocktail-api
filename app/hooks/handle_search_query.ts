@@ -12,8 +12,9 @@ export const handleSearchQuery = () =>
         query.whereIn(param, value)
       } else if (typeof value === 'object') {
         if (value.from) query.where(param, '>=', value.from)
-        if (value.to ?? false) query.where(param, '<=', value.to)
+        if (value.to) query.where(param, '<=', value.to)
       } else {
+        // number and boolean filters does not work with whereLike
         if (Number.isNaN(Number(value)) && !['true', 'false'].includes(value)) {
           query.whereLike(param, value)
         } else {

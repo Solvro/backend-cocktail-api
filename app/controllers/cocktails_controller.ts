@@ -17,7 +17,7 @@ export default class CocktailsController {
    * Apply filtering and sorting.
    */
   async index({ request }: HttpContext) {
-    const ingredientId = request.input('ingredientId')
+    const { ingredientId, ingredients } = request.only(['ingredientId', 'ingredients'])
     const cocktails = await Cocktail.query()
       .withScopes((scopes) => {
         scopes.handleSortQuery(request.input('sort'))
@@ -40,7 +40,9 @@ export default class CocktailsController {
           relationQuery[Array.isArray(ingredientId) ? 'whereIn' : 'where']('id', ingredientId)
         })
       })
+      .if(['1', 'true'].includes(ingredients), (query) => query.preload('ingredients'))
       .paginate(request.input('page'), request.input('perPage', 15))
+
     return cocktails
   }
 }
