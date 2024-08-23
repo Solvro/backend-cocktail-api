@@ -361,7 +361,7 @@
           {
             "name": "category",
             "in": "query",
-            "description": "Allows you to filter by category. You can fetch all categories in /cocktail/categories endpoint",
+            "description": "Allows you to filter by category. You can fetch all categories in /cocktails/categories endpoint",
             "schema": {
               "$ref": "#/components/schemas/CocktailCategory"
             }
@@ -369,7 +369,7 @@
           {
             "name": "glass",
             "in": "query",
-            "description": "Allows you to filter by cocktail glasses. You can fetch all glasses in /cocktail/glasses endpoint",
+            "description": "Allows you to filter by cocktail glasses. You can fetch all glasses in /cocktails/glasses endpoint",
             "schema": {
               "$ref": "#/components/schemas/CocktailGlass"
             }
@@ -562,7 +562,7 @@
         }
       }
     },
-    "/cocktail/glasses": {
+    "/cocktails/glasses": {
       "get": {
         "tags": [
           "Cocktails"
@@ -592,7 +592,7 @@
         }
       }
     },
-    "/cocktail/categories": {
+    "/cocktails/categories": {
       "get": {
         "tags": [
           "Cocktails"

@@ -64,7 +64,7 @@ The output files will be located in the `build` directory. Expose the `build/pub
 
 ### Testing
 
-Basic tests will be implemented. To run them:
+Basic tests are be implemented. To run them:
 ```
 node ace test
 ```
