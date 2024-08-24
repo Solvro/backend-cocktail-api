@@ -16,7 +16,7 @@ export const handleSearchQuery = () =>
       } else {
         // number and boolean filters does not work with whereLike
         if (Number.isNaN(Number(value)) && !['true', 'false'].includes(value)) {
-          query.whereLike(param, value)
+          query.whereRaw(`cast(${param} as text) ILIKE '${value}'`)
         } else {
           query.where(param, value)
         }
