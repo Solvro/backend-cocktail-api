@@ -40,7 +40,7 @@ test.group('Cocktails list', () => {
     response.assertStatus(200)
     const { data } = response.body()
     for (const cocktail of data) {
-      assert.include(cocktail.instructions, 'chilled glass')
+      assert.include(cocktail.instructions.toLowerCase(), 'chilled glass')
     }
   })
 

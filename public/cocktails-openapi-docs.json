@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Solvro Cocktails API",
-    "description": "The Solvro Cocktails API API allows fetch cocktails recipes with ingredients bases on thecocktailsdb. This api is mainly used for recrutation purposes, but fell free to build whatever you like with it <center> <img src=\"/images/banner.png\" /> </center>",
+    "description": "The Solvro Cocktails API API allows fetch cocktails recipes with ingredients bases on thecocktailsdb. This api is mainly used for recrutation purposes, but fell free to build whatever you like with it. <center> <img src=\"/images/banner.png\" /> </center>",
     "contact": {
       "email": "kn.solvro@pwr.edu.pl"
     },

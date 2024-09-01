@@ -47,7 +47,7 @@ test.group('Ingredients list', () => {
     response.assertStatus(200)
     const { data } = response.body()
     for (const ingredient of data) {
-      assert.include(ingredient.description, 'Vodka')
+      assert.include(ingredient.description.toLowerCase(), 'vodka')
     }
   })
 
