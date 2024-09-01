@@ -1,6 +1,10 @@
 ## Backend-cocktail-api
 
 ![Banner](./banner.png)
+[![Test adonis app](https://github.com/Solvro/backend-cocktail-api/actions/workflows/test.yml/badge.svg)](https://github.com/Solvro/backend-cocktail-api/actions/workflows/test.yml)
+![Static Badge](https://img.shields.io/badge/version-1.1.0-80B3FF)
+![Author](https://img.shields.io/badge/author-Dawid%20Linek-%23274276)
+
 
 This project is inspired by thecocktaildb API and is used for recruitment tasks at KN Solvro. It provides a public REST API for querying cocktail recipes.
 
