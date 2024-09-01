@@ -30,7 +30,7 @@ export default class IngredientsController {
             'imageUrl',
             'createdAt',
             'updatedAt',
-          ])
+          ]) 
         )
       })
       .paginate(request.input('page', 1), request.input('perPage', 15))

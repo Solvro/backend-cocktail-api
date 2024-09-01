@@ -29,9 +29,9 @@ export default class Cocktail extends BaseModel {
   @column()
   declare alcoholic: boolean
 
-  static handleSearchQuery = handleSearchQuery()
+  static handleSearchQuery = handleSearchQuery<typeof Cocktail>()
 
-  static handleSortQuery = handleSortQuery(this)
+  static handleSortQuery = handleSortQuery<typeof Cocktail>(this)
 
   @manyToMany(() => Ingredient, {
     pivotColumns: ['measure'],

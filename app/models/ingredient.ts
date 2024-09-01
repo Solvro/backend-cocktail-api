@@ -26,9 +26,9 @@ export default class Ingredient extends BaseModel {
   @column()
   declare imageUrl: string
 
-  static handleSearchQuery = handleSearchQuery()
+  static handleSearchQuery = handleSearchQuery<typeof Ingredient>()
 
-  static handleSortQuery = handleSortQuery(this)
+  static handleSortQuery = handleSortQuery<typeof Ingredient>(this)
 
   @column.dateTime({
     autoCreate: true,
