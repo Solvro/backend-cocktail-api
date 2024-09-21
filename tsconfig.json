@@ -3,5 +3,9 @@
   "compilerOptions": {
     "rootDir": "./",
     "outDir": "./build"
-  }
+  },
+  "ts-node": {
+    "swc": true
+  },
+
 }
