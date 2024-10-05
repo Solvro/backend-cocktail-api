@@ -57,12 +57,12 @@ paths:
           in: query
           description: Allows you to filter name
           schema:
-            type: number
+            type: string
         - name: description
           in: query
           description: Allows you to filter description. Support like, so you can search by parial description with %keyword%
           schema:
-            type: number
+            type: string
         - name: alcohol
           in: query
           description: Allows you to filter wheather or not ingredient contains alcohol. Supports 1/0 and true/false
@@ -98,13 +98,13 @@ paths:
           in: query
           description: Allows you to set page and use pagination. 
           schema:
-            type: string
+            type: number
             default: 1 
         - name: perPage
           in: query
           description: Allows you to set how many records are shown on the page. 
           schema:
-            type: string
+            type: number
             default: 15
       responses:
         '200':
@@ -210,12 +210,12 @@ paths:
           in: query
           description: Allows you to filter name
           schema:
-            type: number
+            type: string
         - name: instructions
           in: query
           description: Allows you to filter instructions. Support like, so you can search by parial instructions with %keyword%
           schema:
-            type: number
+            type: string
         - name: alcoholic
           in: query
           description: Allows you to filter wheather or not cocktail contains alcohol. Supports 1/0 and true/false
@@ -261,13 +261,13 @@ paths:
           in: query
           description: Allows you to set page and use pagination. 
           schema:
-            type: string
+            type: number
             default: 1 
         - name: perPage
           in: query
           description: Allows you to set how many records are shown on the page. 
           schema:
-            type: string
+            type: number
             default: 15
       responses:
         '200':

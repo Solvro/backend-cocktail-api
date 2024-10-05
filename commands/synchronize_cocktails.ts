@@ -70,7 +70,7 @@ export default class SynchronizeCocktails extends BaseCommand {
   async run() {
     const animation = this.logger.await('Synchronizing cocktails')
     animation.start()
-    for (let id of useIdsIterator(this.ids, 11000, 12000)) {
+    for (let id of useIdsIterator(this.ids, 11000, 13000)) {
       try {
         await sleep(200) //because of thecocktaildb rate limit
         const drink = await this.fetchDrinkById(id)

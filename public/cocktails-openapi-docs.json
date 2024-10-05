@@ -1,5 +1,5 @@
 {
-  "openapi": "3.1.0",
+  "openapi": "3.0.3",
   "info": {
     "title": "Solvro Cocktails API",
     "description": "The Solvro Cocktails API API allows fetch cocktails recipes with ingredients bases on thecocktailsdb. This api is mainly used for recrutation purposes, but fell free to build whatever you like with it. <center> <img src=\"/images/banner.png\" /> </center>",
@@ -82,21 +82,21 @@
             "in": "query",
             "description": "Allows you to filter name",
             "schema": {
-              "type": "number"
+              "type": "string"
             }
           },
           {
             "name": "description",
             "in": "query",
-            "description": "Allows you to filter description. Support like, so you can search by partial description with %keyword%",
+            "description": "Allows you to filter description. Support like, so you can search by parial description with %keyword%",
             "schema": {
-              "type": "number"
+              "type": "string"
             }
           },
           {
             "name": "alcohol",
             "in": "query",
-            "description": "Allows you to filter whether or not ingredient contains alcohol. Supports 1/0 and true/false",
+            "description": "Allows you to filter wheather or not ingredient contains alcohol. Supports 1/0 and true/false",
             "schema": {
               "type": "boolean"
             }
@@ -164,7 +164,7 @@
             "in": "query",
             "description": "Allows you to set page and use pagination.",
             "schema": {
-              "type": "string",
+              "type": "number",
               "default": 1
             }
           },
@@ -173,7 +173,7 @@
             "in": "query",
             "description": "Allows you to set how many records are shown on the page.",
             "schema": {
-              "type": "string",
+              "type": "number",
               "default": 15
             }
           }
@@ -247,7 +247,7 @@
                   "properties": {
                     "message": {
                       "type": "string",
-                      "examples": [
+                      "example": [
                         "Row not found"
                       ]
                     }
@@ -266,7 +266,7 @@
         ],
         "summary": "Display listing of ingredients types",
         "description": "Display list of ingredients types that can be further used for filtering",
-        "operationId": "ingredientsTypesIndex",
+        "operationId": "ingreadientsTypesIndex",
         "responses": {
           "200": {
             "description": "successful operation",
@@ -295,7 +295,7 @@
           "Cocktails"
         ],
         "summary": "Display listing of cocktails",
-        "description": "Allows you to display listing of cocktails with filtering and sorting support. All parameters support exact, like, list, range filtering. You can also filter by ingredient id and attach ingredients.",
+        "description": "Allows you to display listing of cocktails with filtering and sorting support. All parametrs support exact, like, list, range filtering. You can also filter by ingredient id and attach ingredients.",
         "operationId": "cocktailIndex",
         "parameters": [
           {
@@ -339,21 +339,21 @@
             "in": "query",
             "description": "Allows you to filter name",
             "schema": {
-              "type": "number"
+              "type": "string"
             }
           },
           {
             "name": "instructions",
             "in": "query",
-            "description": "Allows you to filter instructions. Support like, so you can search by partial instructions with %keyword%",
+            "description": "Allows you to filter instructions. Support like, so you can search by parial instructions with %keyword%",
             "schema": {
-              "type": "number"
+              "type": "string"
             }
           },
           {
             "name": "alcoholic",
             "in": "query",
-            "description": "Allows you to filter whether or not cocktail contains alcohol. Supports 1/0 and true/false",
+            "description": "Allows you to filter wheather or not cocktail contains alcohol. Supports 1/0 and true/false",
             "schema": {
               "type": "boolean"
             }
@@ -361,7 +361,7 @@
           {
             "name": "category",
             "in": "query",
-            "description": "Allows you to filter by category. You can fetch all categories in /cocktails/categories endpoint",
+            "description": "Allows you to filter by category. You can fetch all categories in /cocktail/categories endpoint",
             "schema": {
               "$ref": "#/components/schemas/CocktailCategory"
             }
@@ -369,7 +369,7 @@
           {
             "name": "glass",
             "in": "query",
-            "description": "Allows you to filter by cocktail glasses. You can fetch all glasses in /cocktails/glasses endpoint",
+            "description": "Allows you to filter by cocktail glasses. You can fetch all glasses in /cocktail/glasses endpoint",
             "schema": {
               "$ref": "#/components/schemas/CocktailGlass"
             }
@@ -437,7 +437,7 @@
             "in": "query",
             "description": "Allows you to set page and use pagination.",
             "schema": {
-              "type": "string",
+              "type": "number",
               "default": 1
             }
           },
@@ -446,7 +446,7 @@
             "in": "query",
             "description": "Allows you to set how many records are shown on the page.",
             "schema": {
-              "type": "string",
+              "type": "number",
               "default": 15
             }
           }
@@ -523,7 +523,7 @@
                                     "properties": {
                                       "measure": {
                                         "type": "string",
-                                        "examples": [
+                                        "example": [
                                           "1/2 oz"
                                         ]
                                       }
@@ -550,7 +550,7 @@
                   "properties": {
                     "message": {
                       "type": "string",
-                      "examples": [
+                      "example": [
                         "Row not found"
                       ]
                     }
@@ -627,6 +627,7 @@
     "schemas": {
       "CocktailCategory": {
         "type": "string",
+        "nullable": true,
         "enum": [
           "Cocktail",
           "Ordinary Drink",
@@ -642,6 +643,7 @@
       },
       "CocktailGlass": {
         "type": "string",
+        "nullable": true,
         "enum": [
           "Highball glass",
           "Old-fashioned glass",
@@ -679,6 +681,7 @@
       },
       "IngredientType": {
         "type": "string",
+        "nullable": true,
         "enum": [
           "Vodka",
           "Gin",
@@ -687,6 +690,7 @@
           "Whisky",
           "Syrup",
           "Beer",
+          "null",
           null,
           "Liqueur",
           "Bitter",
@@ -743,28 +747,30 @@
           "id": {
             "type": "integer",
             "format": "int64",
-            "examples": [
+            "example": [
               10,
               11
             ]
           },
           "name": {
             "type": "string",
-            "examples": [
+            "example": [
               "Red wine",
               "Grapefruit juice"
             ]
           },
           "description": {
             "type": "string",
-            "examples": [
+            "nullable": true,
+            "example": [
               "Red wine is a type of wine made from dark-colored grape varieties. The color of the wine can range from intense violet, typical of young wines, through to brick red for mature wines and brown for older red wines",
               "Grapefruit juice is the juice from grapefruits. It is rich in vitamin C and ranges from sweet-tart to very sour."
             ]
           },
           "alcohol": {
             "type": "boolean",
-            "examples": [
+            "nullable": true,
+            "example": [
               true,
               false
             ]
@@ -774,30 +780,30 @@
           },
           "percentage": {
             "type": "number",
-            "examples": [
+            "nullable": true,
+            "example": [
               40,
               null
             ]
           },
           "imageUrl": {
             "type": "string",
-            "examples": [
+            "nullable": true,
+            "example": [
               "https://cocktails.solvro.pl/images/ingredients/rose.png",
               "https://cocktails.solvro.pl/images/ingredients/pomegranate-juice.png"
             ]
           },
           "createdAt": {
             "type": "string",
-            "format": "datetime",
-            "examples": [
+            "example": [
               "2024-08-19 18:39:58",
               "2024-08-20 13:19:58"
             ]
           },
           "updatedAt": {
             "type": "string",
-            "format": "datetime",
-            "examples": [
+            "example": [
               "2024-08-19 18:39:58",
               "2024-08-21 10:12:58"
             ]
@@ -810,28 +816,29 @@
           "id": {
             "type": "integer",
             "format": "int64",
-            "examples": [
+            "example": [
               11000,
               11001
             ]
           },
           "name": {
             "type": "string",
-            "examples": [
+            "example": [
               "Mojito",
               "Old Fashioned"
             ]
           },
           "instructions": {
             "type": "string",
-            "examples": [
+            "nullable": true,
+            "example": [
               "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw",
               "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\r\nFill the glass with ice cubes and add whiskey.\r\n\r\nGarnish with orange twist, and a cocktail cherry"
             ]
           },
           "alcoholic": {
             "type": "boolean",
-            "examples": [
+            "example": [
               true,
               true
             ]
@@ -844,23 +851,22 @@
           },
           "imageUrl": {
             "type": "string",
-            "examples": [
+            "nullable": true,
+            "example": [
               "https://cocktails.solvro.pl/images/cocktails/mojito.png",
               "https://cocktails.solvro.pl/images/cocktails/old-fashioned.png"
             ]
           },
           "createdAt": {
             "type": "string",
-            "format": "date-time",
-            "examples": [
+            "example": [
               "2024-08-19 18:39:58",
               "2024-08-20 13:19:58"
             ]
           },
           "updatedAt": {
             "type": "string",
-            "format": "date-time",
-            "examples": [
+            "example": [
               "2024-08-19 18:39:58",
               "2024-08-21 10:12:58"
             ]
@@ -873,59 +879,61 @@
           "total": {
             "type": "integer",
             "format": "int64",
-            "examples": [
+            "example": [
               133
             ]
           },
           "perPage": {
             "type": "integer",
             "format": "int64",
-            "examples": [
+            "example": [
               15
             ]
           },
           "currentPage": {
             "type": "integer",
             "format": "int64",
-            "examples": [
+            "example": [
               1
             ]
           },
           "lastPage": {
             "type": "integer",
             "format": "int64",
-            "examples": [
+            "example": [
               9
             ]
           },
           "firstPage": {
             "type": "integer",
             "format": "int64",
-            "examples": [
+            "example": [
               1
             ]
           },
           "firstPageUrl": {
             "type": "string",
-            "examples": [
+            "example": [
               "/?page=1"
             ]
           },
           "lastPageUrl": {
             "type": "string",
-            "examples": [
+            "example": [
               "/?page=9"
             ]
           },
           "nextPageUrl": {
             "type": "string",
-            "examples": [
+            "nullable": true,
+            "example": [
               "/?page=2"
             ]
           },
           "previousPageUrl": {
             "type": "string",
-            "examples": [
+            "nullable": true,
+            "example": [
               "/?page=1"
             ]
           }
