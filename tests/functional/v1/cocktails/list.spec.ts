@@ -35,12 +35,35 @@ test.group('Cocktails list', () => {
     }
   })
 
-  test('Filtering by instruction contains', async ({ assert, client }) => {
+  test('Filtering by instruction contains (backwards compatibility with %)', async ({ assert, client }) => {
     const response = await client.get(`/api/v1/cocktails?instructions=%chilled glass%`)
     response.assertStatus(200)
     const { data } = response.body()
     for (const cocktail of data) {
       assert.include(cocktail.instructions.toLowerCase(), 'chilled glass')
+    }
+  })
+
+  test('Filtering by instruction contains (auto-% addition)', async ({ assert, client }) => {
+    const response = await client.get(`/api/v1/cocktails?instructions=chilled glass`)
+    response.assertStatus(200)
+    const { data } = response.body()
+    for (const cocktail of data) {
+      assert.include(cocktail.instructions.toLowerCase(), 'chilled glass')
+    }
+  })
+
+  test('Filtering by name contains (auto-% addition)', async ({ assert, client }) => {
+    // Find a cocktail and get a substring of its name for partial matching
+    const cocktail = await Cocktail.query().firstOrFail()
+    const partialName = cocktail.name.substring(1, cocktail.name.length - 1) // Get middle part
+    if (partialName.length > 2) {
+      const response = await client.get(`/api/v1/cocktails?name=${partialName}`)
+      response.assertStatus(200)
+      const { data } = response.body()
+      for (const foundCocktail of data) {
+        assert.include(foundCocktail.name.toLowerCase(), partialName.toLowerCase())
+      }
     }
   })
 

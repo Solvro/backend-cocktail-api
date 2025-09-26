@@ -17,7 +17,9 @@ export const handleSearchQuery = <T extends LucidModel>() =>
       } else {
         // number and boolean filters does not work with whereLike
         if (Number.isNaN(Number(value)) && !['true', 'false'].includes(value)) {
-          query.whereRaw(`cast(${param} as text) ILIKE '${value}'`)
+          // Automatically add % signs for partial matching, but preserve existing % for backwards compatibility
+          const searchValue = value.includes('%') ? value : `%${value}%`
+          query.whereRaw(`cast(${param} as text) ILIKE '${searchValue}'`)
         } else {
           query.where(param, value)
         }

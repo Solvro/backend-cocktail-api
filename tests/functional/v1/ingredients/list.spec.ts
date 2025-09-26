@@ -42,12 +42,44 @@ test.group('Ingredients list', () => {
     }
   })
 
-  test('Filtering by description contains', async ({ assert, client }) => {
+  test('Filtering by description contains (backwards compatibility with %)', async ({ assert, client }) => {
     const response = await client.get(`/api/v1/ingredients?description=%Vodka%`)
     response.assertStatus(200)
     const { data } = response.body()
     for (const ingredient of data) {
       assert.include(ingredient.description.toLowerCase(), 'vodka')
+    }
+  })
+
+  test('Filtering by description contains (auto-% addition)', async ({ assert, client }) => {
+    const response = await client.get(`/api/v1/ingredients?description=Vodka`)
+    response.assertStatus(200)
+    const { data } = response.body()
+    for (const ingredient of data) {
+      assert.include(ingredient.description.toLowerCase(), 'vodka')
+    }
+  })
+
+  test('Filtering by name contains (auto-% addition)', async ({ assert, client }) => {
+    // Find an ingredient and get a substring of its name for partial matching
+    const ingredient = await Ingredient.query().firstOrFail()
+    const partialName = ingredient.name.substring(1, ingredient.name.length - 1) // Get middle part
+    if (partialName.length > 2) {
+      const response = await client.get(`/api/v1/ingredients?name=${partialName}`)
+      response.assertStatus(200)
+      const { data } = response.body()
+      for (const foundIngredient of data) {
+        assert.include(foundIngredient.name.toLowerCase(), partialName.toLowerCase())
+      }
+    }
+  })
+
+  test('Filtering by description prefix (backwards compatibility with %)', async ({ assert, client }) => {
+    const response = await client.get(`/api/v1/ingredients?description=Vodka%`)
+    response.assertStatus(200)
+    const { data } = response.body()
+    for (const ingredient of data) {
+      assert.match(ingredient.description.toLowerCase(), /^vodka/)
     }
   })
 
