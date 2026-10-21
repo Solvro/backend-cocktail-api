@@ -1,6 +1,7 @@
 export enum CocktailGlass {
   HighballGlass = 'Highball glass',
   OldFashionedGlass = 'Old-fashioned glass',
+  // eslint-disable-next-line @typescript-eslint/no-shadow
   CocktailGlass = 'Cocktail glass',
   CopperMug = 'Copper Mug',
   WhiskeyGlass = 'Whiskey Glass',

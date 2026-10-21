@@ -5,11 +5,11 @@ import { sleep } from '../app/hooks/sleep.js'
 import Cocktail from '#models/cocktail'
 import slug from 'slug'
 import drive from '@adonisjs/drive/services/main'
-import { Readable } from 'stream'
+import { Readable } from 'node:stream'
 import Ingredient from '#models/ingredient'
 import { CocktailCategory } from '../app/enums/cocktail_category.js'
 import { CocktailGlass } from '../app/enums/cocktail_glass.js'
-import { ReadableStream } from 'stream/web'
+import { ReadableStream } from 'node:stream/web'
 
 type CocktailResponse = {
   idDrink: string
@@ -83,7 +83,7 @@ export default class SynchronizeCocktails extends BaseCommand {
         await this.createOrUpdateCocktail(drink)
         await this.storeCocktailImage(drink)
       } catch (error) {
-        this.logger.error(error)
+        this.logger.error(error as Error)
       }
     }
 

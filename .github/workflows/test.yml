@@ -30,10 +30,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Use Node.js v22.4.0
+    - name: Use Node.js v26
       uses: actions/setup-node@v4
       with:
-        node-version: 22.4.0
+        node-version: 26
         cache: 'npm'
     - run: npm ci
     - run: cp .env.example .env

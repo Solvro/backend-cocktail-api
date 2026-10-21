@@ -6,8 +6,8 @@ import Ingredient from '#models/ingredient'
 import { IngredientType } from '../app/enums/ingredient_type.js'
 import slug from 'slug'
 import drive from '@adonisjs/drive/services/main'
-import { Readable } from 'stream'
-import { ReadableStream } from 'stream/web'
+import { Readable } from 'node:stream'
+import { ReadableStream } from 'node:stream/web'
 import db from '@adonisjs/lucid/services/db'
 
 type IngredientResponse = {
@@ -55,7 +55,7 @@ export default class SynchronizeIngredients extends BaseCommand {
         await this.createOrUpdateIngredient(ingredient)
         await this.storeIngredientImage(ingredient)
       } catch (error) {
-        this.logger.error(error)
+        this.logger.error(error as Error)
       }
     }
 

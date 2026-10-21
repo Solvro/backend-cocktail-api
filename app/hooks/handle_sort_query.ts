@@ -1,5 +1,5 @@
 import { scope } from '@adonisjs/lucid/orm'
-import { LucidModel, ModelAttributes } from '@adonisjs/lucid/types/model'
+import { type LucidModel, type ModelAttributes } from '@adonisjs/lucid/types/model'
 
 /**
  * Based on sort string apply sorting.

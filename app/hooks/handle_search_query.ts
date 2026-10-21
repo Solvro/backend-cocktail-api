@@ -1,13 +1,13 @@
 import { scope } from '@adonisjs/lucid/orm'
-import { LucidModel, ModelAttributes } from '@adonisjs/lucid/types/model'
+import { type LucidModel, type ModelAttributes } from '@adonisjs/lucid/types/model'
 
 /**
  * Based on object of params filter query including in, from, to, like options
  */
 export const handleSearchQuery = <T extends LucidModel>() =>
   scope((query, params: Partial<Record<keyof ModelAttributes<InstanceType<T>>, any>>) => {
-    for (const param in params) {
-      const value = params[param] as null | string[] | string | { from: string; to: string }
+    for (const [param, rawValue] of Object.entries(params)) {
+      const value = rawValue as null | string[] | string | { from: string; to: string }
       if (!value) continue
       if (Array.isArray(value)) {
         query.whereIn(param, value)
@@ -19,7 +19,8 @@ export const handleSearchQuery = <T extends LucidModel>() =>
         if (Number.isNaN(Number(value)) && !['true', 'false'].includes(value)) {
           // Automatically add % signs for partial matching, but preserve existing % for backwards compatibility
           const searchValue = value.includes('%') ? value : `%${value}%`
-          query.whereRaw(`cast(${param} as text) ILIKE '${searchValue}'`)
+          const column = query.model.$keys.attributesToColumns.get(param, param)
+          query.whereRaw('cast(?? as text) ILIKE ?', [column, searchValue])
         } else {
           query.where(param, value)
         }
