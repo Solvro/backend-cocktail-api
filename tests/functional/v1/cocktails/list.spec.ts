@@ -67,6 +67,22 @@ test.group('Cocktails list', () => {
     }
   })
 
+  test('Filtering by name with apostrophe', async ({ assert, client }) => {
+    const response = await client.get('/api/v1/cocktails').qs({ name: "Gentleman's" })
+    response.assertStatus(200)
+    const { data } = response.body()
+    assert.isNotEmpty(data)
+    for (const cocktail of data) {
+      assert.include(cocktail.name, "Gentleman's")
+    }
+  })
+
+  test('Filtering by name is not vulnerable to SQL injection', async ({ assert, client }) => {
+    const response = await client.get('/api/v1/cocktails').qs({ name: "%' OR '1'='1" })
+    response.assertStatus(200)
+    assert.isEmpty(response.body().data)
+  })
+
   test('Filtering by has ingredient', async ({ assert, client }) => {
     const ingredient = await Ingredient.firstOrFail()
     const response = await client.get(
