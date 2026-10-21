@@ -35,7 +35,10 @@ test.group('Cocktails list', () => {
     }
   })
 
-  test('Filtering by instruction contains (backwards compatibility with %)', async ({ assert, client }) => {
+  test('Filtering by instruction contains (backwards compatibility with %)', async ({
+    assert,
+    client,
+  }) => {
     const response = await client.get(`/api/v1/cocktails?instructions=%chilled glass%`)
     response.assertStatus(200)
     const { data } = response.body()

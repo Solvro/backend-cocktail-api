@@ -42,7 +42,10 @@ test.group('Ingredients list', () => {
     }
   })
 
-  test('Filtering by description contains (backwards compatibility with %)', async ({ assert, client }) => {
+  test('Filtering by description contains (backwards compatibility with %)', async ({
+    assert,
+    client,
+  }) => {
     const response = await client.get(`/api/v1/ingredients?description=%Vodka%`)
     response.assertStatus(200)
     const { data } = response.body()
@@ -74,7 +77,10 @@ test.group('Ingredients list', () => {
     }
   })
 
-  test('Filtering by description prefix (backwards compatibility with %)', async ({ assert, client }) => {
+  test('Filtering by description prefix (backwards compatibility with %)', async ({
+    assert,
+    client,
+  }) => {
     const response = await client.get(`/api/v1/ingredients?description=Vodka%`)
     response.assertStatus(200)
     const { data } = response.body()
