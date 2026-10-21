@@ -1,13 +1,13 @@
 import { scope } from '@adonisjs/lucid/orm'
-import { LucidModel, ModelAttributes } from '@adonisjs/lucid/types/model'
+import { type LucidModel, type ModelAttributes } from '@adonisjs/lucid/types/model'
 
 /**
  * Based on object of params filter query including in, from, to, like options
  */
 export const handleSearchQuery = <T extends LucidModel>() =>
   scope((query, params: Partial<Record<keyof ModelAttributes<InstanceType<T>>, any>>) => {
-    for (const param in params) {
-      const value = params[param] as null | string[] | string | { from: string; to: string }
+    for (const [param, rawValue] of Object.entries(params)) {
+      const value = rawValue as null | string[] | string | { from: string; to: string }
       if (!value) continue
       if (Array.isArray(value)) {
         query.whereIn(param, value)

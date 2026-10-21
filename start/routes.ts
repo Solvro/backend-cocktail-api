@@ -27,4 +27,4 @@ router
   })
   .prefix('api/v1')
 
-router.on('*').redirect('/')
+router.on('*').redirectToPath('/')
